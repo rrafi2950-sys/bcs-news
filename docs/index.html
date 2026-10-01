@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>BCS News Translation Trainer</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--tx:#1b1f24;--mut:#667085;--ac:#0f766e;--bd:#e2e5ea;--gold:#b45309;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111418;--card:#1b2026;--tx:#eceff3;--mut:#9aa4b2;--ac:#2dd4bf;--bd:#2c333b;--gold:#fbbf24}}
+:root[data-theme="dark"]{--bg:#111418;--card:#1b2026;--tx:#eceff3;--mut:#9aa4b2;--ac:#2dd4bf;--bd:#2c333b;--gold:#fbbf24}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.6 system-ui,-apple-system,"Noto Sans Bengali","Segoe UI",sans-serif}
+main{max-width:780px;margin:0 auto;padding:14px}
+h1{font-size:1.25rem;margin:2px 0}
+.sub{color:var(--mut);font-size:.85rem;margin-bottom:10px}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px;margin-bottom:8px}
+.tab,.chip{flex:0 0 auto;padding:8px 12px;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:20px;font:inherit;font-size:.9rem;cursor:pointer;white-space:nowrap}
+.tab.on,.chip.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px;margin-bottom:10px}
+.news h3{margin:0 0 4px;font-size:1rem}
+.meta{font-size:.78rem;color:var(--mut)}
+.star{color:var(--gold);font-weight:700}
+label{display:block;font-size:.82rem;color:var(--mut);margin:8px 0 4px}
+select,textarea,input{width:100%;padding:9px;border:1px solid var(--bd);border-radius:8px;background:var(--bg);color:var(--tx);font:inherit}
+textarea{min-height:130px;resize:vertical}
+.row{display:flex;gap:8px;flex-wrap:wrap}.row>*{flex:1;min-width:130px}
+.go{padding:10px 14px;border:0;border-radius:8px;background:var(--ac);color:#fff;font:inherit;font-weight:600;cursor:pointer;margin:8px 6px 0 0}
+.go.alt{background:var(--mut)}.go:disabled{opacity:.5}
+.box{background:var(--bg);border:1px solid var(--bd);border-radius:8px;padding:10px;white-space:pre-wrap;word-wrap:break-word}
+.hide{display:none}
+.warn{font-size:.82rem;color:var(--mut)}
+.wrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:.92rem}td,th{border-bottom:1px solid var(--bd);padding:6px;text-align:left}
+.bar{height:10px;background:var(--ac);border-radius:5px}
+</style>
+</head>
+<body>
+<main>
+<h1>📰 BCS News Translation Trainer</h1>
+<div class="sub">Live news → Dedupe → BCS filter → Practice passage → Your answer → AI check</div>
+<div class="row" style="margin-bottom:8px">
+  <button class="go" id="refreshNews">↻ Refresh latest news</button>
+  <div class="warn" style="padding:10px 0">খবর automatically update হয়।</div>
+</div>
+<details class="card"><summary>🔑 AI settings (translation/check-এর জন্য)</summary>
+<div class="warn">তোমার নিজের Anthropic API key দাও। এটা শুধু এই browser-এর localStorage-এ থাকে, কোথাও commit হয় না। Public repo-তে key কখনও কোডে বসাবে না।</div>
+<input id="kIn" type="password" placeholder="sk-ant-..." autocomplete="off">
+<input id="mIn" placeholder="Model (default: claude-sonnet-5-5)" style="margin-top:6px">
+<button class="go" id="kSave">Save</button></details>
+<div class="tabs" id="tabs"></div>
+
+<section id="p-news">
+  <div class="tabs" id="cats"></div>
+  <div class="warn" id="snapInfo"></div>
+  <div id="newsList"></div>
+  <div class="card">
+    <strong>নিজের headline যোগ করো</strong>
+    <div class="warn">যেকোনো newspaper-এর শুধু headline/এক লাইনের সারাংশ দাও। একই pipeline-এ dedupe + BCS score হবে।</div>
+    <input id="addT" placeholder="Headline (Bangla/English)">
+    <button class="go" id="addB">Add to list</button>
+  </div>
+  <div class="card"><strong>Source sites</strong><div class="warn">
+    <a href="https://www.thedailystar.net/" target="_blank" rel="noopener">Daily Star</a> ·
+    <a href="https://www.prothomalo.com/" target="_blank" rel="noopener">প্রথম আলো</a> ·
+    <a href="https://www.dhakatribune.com/" target="_blank" rel="noopener">Dhaka Tribune</a> ·
+    <a href="https://www.tbsnews.net/" target="_blank" rel="noopener">TBS</a> ·
+    <a href="https://news.un.org/" target="_blank" rel="noopener">UN News</a> ·
+    <a href="https://news.google.com/" target="_blank" rel="noopener">Google News</a></div></div>
+</section>
+
+<section id="p-prac" class="hide">
+  <div class="card">
+    <div class="warn">Selected news:</div><strong id="selT">— Today's News থেকে একটি খবর বাছো —</strong>
+    <div class="row">
+      <div><label>Direction</label><select id="dir"><option value="bn2en">🇧🇩→🇬🇧 Bangla → English</option><option value="en2bn">🇬🇧→🇧🇩 English → Bangla</option></select></div>
+      <div><label>Length</label><select id="len"><option>5-6 lines</option><option selected>8-10 lines</option><option>12 lines</option></select></div>
+    </div>
+    <button class="go" id="gen">BCS-style passage বানাও</button>
+    <div class="warn">Original article copy হয় না — headline/metadata থেকে Claude নিজের ভাষায় practice passage লেখে।</div>
+  </div>
+  <div class="card hide" id="work">
+    <strong>Passage</strong><div class="box" id="src"></div>
+    <div id="aids"></div>
+    <label>✍️ তোমার অনুবাদ</label><textarea id="mine"></textarea>
+    <button class="go" id="check">🤖 Check My Translation</button>
+    <button class="go alt" id="model">Model answer</button>
+    <div class="box hide" id="fb" style="margin-top:8px"></div>
+  </div>
+</section>
+
+<section id="p-vocab" class="hide"><div class="card"><strong>🧠 Vocabulary Bank</strong><div class="wrap" id="vocabList"></div><button class="go alt" id="vClr">Clear</button></div></section>
+<section id="p-pat" class="hide"><div class="card"><strong>📝 Sentence Pattern Bank</strong><div id="patList"></div><button class="go alt" id="pClr">Clear</button></div></section>
+<section id="p-prog" class="hide"><div class="card"><strong>📊 Daily Progress</strong><div id="progBox"></div></div>
+  <div class="card"><strong>💾 Revision history</strong><div id="hist"></div></div></section>
+</main>
+
+<script>
+const $=id=>document.getElementById(id);
+/* ---------- 1. FETCH LAYER (inline snapshot; page itself cannot reach other sites) ---------- */
+let SNAPSHOT_DATE="";
+let RAW=[];
+/* ---------- 2. DEDUPE ---------- */
+const norm=s=>s.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu,"").split(/\s+/).filter(w=>w.length>2);
+function sim(a,b){const A=new Set(norm(a)),B=new Set(norm(b));let i=0;A.forEach(x=>B.has(x)&&i++);return i/Math.max(1,new Set([...A,...B]).size)}
+function dedupe(list){const out=[];for(const n of list){if(!out.some(o=>sim(o.t,n.t)>0.6))out.push(n)}return out}
+
+/* ---------- 3. BCS RELEVANCE ---------- */
+const KW={"un ":3,"united nations":3,"icj":3,"climate":3,"rohingya":3,"gdp":3,"gender":3,"women":2,"human rights":3,"democracy":3,"election":2,"referendum":2,"reform":2,"education":2,"energy":2,"economy":2,"inflation":2,"tax":2,"ldc":3,"diplomacy":2,"foreign policy":3,"refugee":3,"labour":2,"central bank":2,"crisis":2,"sustainable":2,"ai ":2,"technology":2,"cabinet":1,"dengue":1,"anti-dumping":2,"jute":2,"inflation":2,"monetary":2,"nuclear":3,"nato":3,"lpg":1,"trade":2,"free speech":3,"girl child":3,"rooppur":2,"oil and gas":2,"rankings":1,"গণতন্ত্র":3,"জলবায়ু":3,"অর্থনীতি":3,"নির্বাচন":2,"শিক্ষা":2,"মানবাধিকার":3,"জাতিসংঘ":3};
+function score(n){const t=" "+n.t.toLowerCase()+" ";let s=0;for(const k in KW)if(t.includes(k))s+=KW[k];if(/UN|Diplomacy|Climate|Human/.test(n.c))s+=1;return s}
+function intl(n){return /UN|Diplomacy|International/.test(n.c)||/world|global|central bank|icj/i.test(n.t)}
+function sci(n){return /\bai\b|technology|science|solar|energy/i.test(n.t)}
+
+let USER=[];try{USER=JSON.parse(localStorage.getItem("bcs_user_news")||"[]")}catch(e){}
+function pipeline(){
+  const all=dedupe([...USER,...RAW]).map(n=>({...n,sc:score(n)})).sort((a,b)=>b.sc-a.sc);
+  return all;
+}
+
+/* ---------- state / storage ---------- */
+function load(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}}
+function save(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+let vocab=load("bcs_vocab",[]),pats=load("bcs_pats",[]),hist=load("bcs_hist",[]);
+let sample=null,sel=null,cur=null,cat="Today's News",live=false;
+function ago(d){const x=Math.floor((Date.now()-new Date(d+"T00:00:00"))/864e5);return isNaN(x)?"":x<=0?"আজ":x+" দিন আগে"}
+async function loadLiveNews(){
+  const info=$("snapInfo");
+  try{
+    info.textContent="🟡 সর্বশেষ খবর লোড হচ্ছে…";
+    const r=await fetch("news.json?v="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("News feed unavailable ("+r.status+")");
+    const d=await r.json();
+    if(!Array.isArray(d.items)||!d.items.length) throw new Error("No news items");
+    RAW=d.items; SNAPSHOT_DATE=d.updated||""; live=true; rNews();
+  }catch(e){
+    info.innerHTML=`🔴 Live feed unavailable — <button class="go alt" id="retryNews" style="margin-top:6px">↻ আবার চেষ্টা</button>`;
+    const rb=$("retryNews"); if(rb) rb.onclick=loadLiveNews;
+  }
+}
+
+const LS=(k,v)=>{try{if(v===undefined)return localStorage.getItem(k)||"";localStorage.setItem(k,v)}catch(e){return ""}};
+async function callAI(prompt){
+  const key=LS("bcs_key");if(!key)throw {code:"no_key",message:"আগে উপরে API key দাও"};
+  const r=await fetch("https://api.anthropic.com/v1/messages",{method:"POST",headers:{"content-type":"application/json","x-api-key":key,"anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
+    body:JSON.stringify({model:LS("bcs_model")||"claude-sonnet-5-5",max_tokens:3000,messages:[{role:"user",content:prompt}]})});
+  const j=await r.json();if(!r.ok)throw {code:"api",message:(j.error&&j.error.message)||r.status};
+  return (j.content||[]).map(c=>c.text||"").join("");
+}
+sample=async(p,o)=>{const t=await callAI(p);if(o&&o.onText)o.onText({text:t});return {text:t}};
+sample.json=async p=>{const t=await callAI(p);return JSON.parse(t.replace(/```json|```/g,"").trim())};
+
+/* ---------- UI: tabs ---------- */
+const TABS=[["news","📰 Today's News"],["prac","✍️ Practice"],["vocab","🧠 Vocabulary"],["pat","📝 Patterns"],["prog","📊 Progress"]];
+TABS.forEach(([k,l],i)=>{const b=document.createElement("button");b.className="tab"+(i?"":" on");b.textContent=l;b.onclick=()=>show(k);b.id="t-"+k;$("tabs").appendChild(b)});
+function show(k){TABS.forEach(([x])=>{$("p-"+x).classList.toggle("hide",x!==k);$("t-"+x).classList.toggle("on",x===k)});if(k==="vocab")rVocab();if(k==="pat")rPat();if(k==="prog")rProg()}
+CATS.forEach(c=>{const b=document.createElement("button");b.className="chip"+(c===cat?" on":"");b.textContent=c;b.onclick=()=>{cat=c;[...$("cats").children].forEach(x=>x.classList.toggle("on",x===b));rNews()};$("cats").appendChild(b)});
+
+function rNews(){
+  let items=pipeline();if(cat==="Today's News")items=items.slice(0,10);
+  if(cat==="⭐ BCS Priority")items=items.filter(n=>n.sc>=4);
+  else if(cat==="International Affairs")items=items.filter(intl);
+  else if(cat==="Science & Tech")items=items.filter(sci);
+  else if(cat!=="Today's News")items=items.filter(n=>n.c===cat);
+  const old=SNAPSHOT_DATE && Math.floor((Date.now()-new Date(SNAPSHOT_DATE+"T00:00:00"))/864e5)>=2;
+  $("snapInfo").innerHTML=`${live?"🟢 Auto feed (GitHub Actions)":"⚪ Feed"} · Last updated: <b>${SNAPSHOT_DATE||"—"}</b>${SNAPSHOT_DATE?" ("+ago(SNAPSHOT_DATE)+")":""} · Duplicates removed, top 10 by BCS score.`+(old?` <br><span class="star">⚠ Feed is older than 2 days — Refresh or run GitHub Actions.</span>`:"");
+  $("newsList").innerHTML="";
+  if(!items.length){$("newsList").innerHTML='<div class="card warn">এই category-তে এখন কিছু নেই।</div>';return}
+  items.forEach(n=>{
+    const d=document.createElement("div");d.className="card news";
+    const h=document.createElement("h3");h.textContent=n.t;
+    const m=document.createElement("div");m.className="meta";
+    m.textContent=`${n.c} · ${n.s||"you"}${n.d?" · "+n.d:""} · BCS score ${n.sc}`;
+    if(n.sc>=4){const s=document.createElement("span");s.className="star";s.textContent=" ⭐";m.appendChild(s)}if(n.p)m.appendChild(document.createTextNode(" · ✅ passage ready"))
+    const b=document.createElement("button");b.className="go";b.textContent="Practice this";
+    b.onclick=()=>{sel=n;$("selT").textContent=n.t;show("prac")};
+    d.append(h,m,b);if(n.u){const a=document.createElement("a");a.href=n.u;a.target="_blank";a.rel="noopener";a.textContent="Source ↗";a.style.cssText="font-size:.85rem;color:var(--ac)";d.append(a)}$("newsList").appendChild(d)});
+}
+$("addB").onclick=()=>{const t=$("addT").value.trim();if(!t)return;USER.unshift({t,c:"Bangladesh Affairs",s:"you"});save("bcs_user_news",USER.slice(0,30));$("addT").value="";rNews()};
+
+/* ---------- Claude calls ---------- */
+const err=e=>"Error: "+(e&&e.message||e);
+async function gen(){
+  if(!sel){alert("আগে একটি খবর বাছো");return}
+  
+  const dir=$("dir").value,lang=dir==="bn2en"?"Bangla":"English";
+  $("gen").disabled=true;$("work").classList.remove("hide");$("src").textContent="Thinking...";$("aids").innerHTML="";$("fb").classList.add("hide");$("mine").value="";
+  try{
+    const r=sel.p?{passage:dir==="bn2en"?sel.p.bn:sel.p.en,vocab:sel.p.vocab||[],patterns:sel.p.patterns||[],model:dir==="bn2en"?sel.p.m_en:sel.p.m_bn}:await sample.json(`Create BCS written-exam translation practice from this news HEADLINE only (do not copy any article text): "${sel.t}" (category: ${sel.c}).
+Write an ORIGINAL formal editorial-style passage in ${lang}, length ${$("len").value}, with long sentences and abstract vocabulary like past Bangladesh BCS questions. Add background context in your own words; avoid inventing precise statistics or quotes.
+Return ONLY JSON: {"passage":"...","vocab":[{"src":"...","tgt":"..."}] (10 items, src in ${lang}, tgt in the other language),"patterns":[{"pattern":"...","example":"..."}] (4 items: useful connectors/structures for this translation direction, explained in Bangla)}`,{cache:false});
+    cur={dir,passage:r.passage,news:sel.t,model:r.model};
+    $("src").textContent=r.passage;
+    const v=r.vocab||[],p=r.patterns||[];
+    $("aids").innerHTML="";
+    const dv=document.createElement("details");dv.innerHTML="<summary>🧠 Vocabulary ("+v.length+") — আগে নিজে চেষ্টা করো</summary>";
+    const tb=document.createElement("div");tb.className="box";tb.textContent=v.map(x=>x.src+" = "+x.tgt).join("\n");dv.appendChild(tb);
+    const dp=document.createElement("details");dp.innerHTML="<summary>📝 Sentence patterns</summary>";
+    const tp=document.createElement("div");tp.className="box";tp.textContent=p.map(x=>x.pattern+"\n  → "+x.example).join("\n");dp.appendChild(tp);
+    $("aids").append(dv,dp);
+    v.forEach(x=>{if(!vocab.some(y=>y.src===x.src))vocab.unshift(x)});p.forEach(x=>{if(!pats.some(y=>y.pattern===x.pattern))pats.unshift(x)});
+    vocab=vocab.slice(0,300);pats=pats.slice(0,100);save("bcs_vocab",vocab);save("bcs_pats",pats);
+  }catch(e){$("src").textContent=err(e)}finally{$("gen").disabled=false}
+}
+$("gen").onclick=gen;
+
+async function stream(prompt,btn){
+  const box=$("fb");box.classList.remove("hide");box.textContent="Thinking...";btn.disabled=true;
+  try{const r=await sample(prompt,{cache:false,onText:({text})=>{box.textContent=text}});box.textContent=r.text;return r.text}
+  catch(e){box.textContent=err(e);return null}finally{btn.disabled=false}
+}
+$("check").onclick=async()=>{
+  if(!cur||!sample)return;const m=$("mine").value.trim();if(!m){alert("নিজের অনুবাদ লেখো");return}
+  const t=await stream(`You are a strict but kind BCS examiner. Direction: ${cur.dir==="bn2en"?"Bangla to English":"English to Bangla"}.\nPassage:\n${cur.passage}\n\nStudent translation:\n${m}\n\nReply in simple Bangla (English terms ok). FIRST LINE must be exactly "SCORE: N/25". Then: mistakes with corrections (grammar, missing sentences, word choice), improved version of 2 weakest sentences, and 5 words to revise.`,$("check"));
+  if(t){const mm=t.match(/SCORE:\s*(\d+(?:\.\d+)?)/);hist.unshift({d:new Date().toISOString().slice(0,10),dir:cur.dir,news:cur.news,score:mm?+mm[1]:null,mine:m});hist=hist.slice(0,100);save("bcs_hist",hist)}
+};
+$("model").onclick=()=>{if(cur&&cur.model){$("fb").classList.remove("hide");$("fb").textContent=cur.model;return}if(cur&&sample)stream(`Translate this passage (${cur.dir==="bn2en"?"Bangla to English":"English to Bangla"}) in natural exam-ready style, sentence by sentence, keeping every sentence:\n${cur.passage}`,$("model"))};
+
+/* ---------- banks & progress ---------- */
+function rVocab(){const w=$("vocabList");w.innerHTML="";if(!vocab.length){w.innerHTML='<div class="warn">Practice passage বানালে vocabulary এখানে জমা হবে।</div>';return}
+  const t=document.createElement("table");vocab.forEach(x=>{const r=t.insertRow();r.insertCell().textContent=x.src;r.insertCell().textContent=x.tgt});w.appendChild(t)}
+function rPat(){const w=$("patList");w.innerHTML="";if(!pats.length){w.innerHTML='<div class="warn">এখনো কিছু নেই।</div>';return}
+  pats.forEach(x=>{const d=document.createElement("div");d.className="box";d.style.marginTop="6px";d.textContent=x.pattern+"\n→ "+x.example;w.appendChild(d)})}
+function rProg(){
+  const today=new Date().toISOString().slice(0,10),td=hist.filter(h=>h.d===today),sc=hist.filter(h=>h.score!=null);
+  const avg=sc.length?(sc.reduce((a,b)=>a+b.score,0)/sc.length).toFixed(1):"—";
+  const days=[...new Set(hist.map(h=>h.d))];let streak=0;const dt=new Date();
+  while(days.includes(dt.toISOString().slice(0,10))){streak++;dt.setDate(dt.getDate()-1)}
+  $("progBox").innerHTML="";
+  const s=document.createElement("div");s.textContent=`আজ: ${td.length} টি · সর্বমোট: ${hist.length} · গড় স্কোর: ${avg}/25 · Streak: ${streak} দিন · Vocabulary: ${vocab.length}`;$("progBox").appendChild(s);
+  $("hist").innerHTML="";
+  if(!hist.length){$("hist").innerHTML='<div class="warn">এখনো কোনো attempt নেই।</div>';return}
+  hist.slice(0,15).forEach(h=>{const d=document.createElement("div");d.style.margin="8px 0";const l=document.createElement("div");l.className="meta";l.textContent=`${h.d} · ${h.dir==="bn2en"?"BN→EN":"EN→BN"} · ${h.score??"?"}/25 · ${h.news}`;const b=document.createElement("div");b.className="bar";b.style.width=((h.score||0)/25*100)+"%";d.append(l,b);$("hist").appendChild(d)})}
+$("vClr").onclick=()=>{vocab=[];save("bcs_vocab",vocab);rVocab()};
+$("pClr").onclick=()=>{pats=[];save("bcs_pats",pats);rPat()};
+$("kIn").value=LS("bcs_key");$("mIn").value=LS("bcs_model");
+$("kSave").onclick=()=>{LS("bcs_key",$("kIn").value.trim());LS("bcs_model",$("mIn").value.trim());alert("Saved")};
+$("refreshNews").onclick=loadLiveNews;
+setInterval(loadLiveNews,30*60*1000);
+rNews();
+loadLiveNews();
+</script>
+</body>
+</html>
