@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-01",
- "generated_utc": "2026-10-01T11:14+00:00",
+ "generated_utc": "2026-10-01T11:39+00:00",
  "items": [
   {
    "t": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
@@ -25,6 +25,22 @@
    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcElBZUVSSEoyejVQXzNhSkZkcThoX3FIbDhVQWtReWMxQ2c4RDNhaDFGOWR1dE9uQTZXVGpRZjZ2S3NJeHNfQXo1VEk5YjJPVGdmd2o4RUkwZFY4cTltNC03YW9qbWtHV0FTVExyNk5Vdk16OW5XdHBjcGZzc0p0WS0tNmtNZnFFc1pNTjY4ZWlxdmR4Z2c?oc=5",
    "d": "30 Sep",
    "sc": 5
+  },
+  {
+   "t": "LIVE: Weighing nuclear risks amid rising tensions and war",
+   "c": "Science & Tech",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+   "d": "29 Sep",
+   "sc": 5
+  },
+  {
+   "t": "From energy crisis to energy transition: How renewables are reshaping energy security",
+   "c": "International Affairs",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/09/1168473",
+   "d": "28 Sep",
+   "sc": 4
   },
   {
    "t": "জাতিসংঘে জাইমার নিয়োগে বাংলাদেশ সরকারের কোনো সম্পৃক্ততা নেই: মাহ্‌দী আমিন",
@@ -55,14 +71,6 @@
    "c": "Science & Tech",
    "s": "The Daily Star",
    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWg5QV9qLUtaXzktTWNqbjA1UnNoenlQVFlqZm5oODVqc1lxQzVhd09Pc082QVBHcjFyVVlwdTZoN1ZpSFBpOWFiNFBZUGRONm1haENQNnNES2p2TmxsSUd0ZlBmbzg0eW4tdjdCWmwtR0FZNFJWRWhZcXFOMzQtN25jazE0ellmd1lKdmE5ZEpEYXp4MV9zMHFBU0YxOEJKT2tWM0t2b0dEdzg?oc=5",
-   "d": "01 Oct",
-   "sc": 3
-  },
-  {
-   "t": "ভিন্নমত ও মতপ্রকাশের স্বাধীনতা গণতন্ত্রের শক্তি : মাহদী আমিন",
-   "c": "Bangladesh Affairs",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMR0kzOEJLRTdFX3VkRkRvUEhmdDNtM01sVHkzQ2haNFBBbF9VRWFLVTdyYmRXcGdTVjdTWDBPZ2RuemdwaEhrWENMOFh5aXhVRzJ4Vk8wWndpNzVjemticlNYN0ttRVZWZXNRUHlHZw?oc=5",
    "d": "01 Oct",
    "sc": 3
   },
@@ -107,6 +115,14 @@
    "sc": 3
   },
   {
+   "t": "Malaysia: UN agency urges safeguards after refugees returned to Myanmar",
+   "c": "UN / Diplomacy",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/09/1168491",
+   "d": "30 Sep",
+   "sc": 3
+  },
+  {
    "t": "Save Democracy March",
    "c": "Bangladesh Affairs",
    "s": "TBS News",
@@ -147,11 +163,35 @@
    "sc": 3
   },
   {
+   "t": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
+   "c": "Human Rights / Governance",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/09/1168486",
+   "d": "29 Sep",
+   "sc": 3
+  },
+  {
    "t": "A new start for Bangladesh's National Human Rights Commission: The Real Test Begins Now",
    "c": "Human Rights / Governance",
    "s": "The Daily Star",
    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZGllYUxkYlhOdjNTNGNxWTZJRWxmRDNfMEhleVZUS2d0UVlmRDR5UnJ1dW16TGtYYVZTVnVWWk5tY1RGcm9zZEpXVVZSdnRveGtGWkFYSG1mTUs0cHU4OXNOdVFySVBNVXdIUzFLSHlMdGZtbFY2aEp1S25CZEltekx5SXFBOU5iSEpoWkpXek9tR0x5T3VBTzNBZnNvRXFUdTVIc18yQW9RZ2o1bExVR3FjV09DbnU2Q054d1lKd3lfZkNseEYzVVlQMlpVODQwalJBU0JJVXd0Q29qNWQ5Ml91MTZmOUNCbkRV?oc=5",
    "d": "29 Sep",
+   "sc": 3
+  },
+  {
+   "t": "DPR Korea tells UN its nuclear status is ‘irreversible’, rejects outside pressure",
+   "c": "UN / Diplomacy",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/09/1168476",
+   "d": "28 Sep",
+   "sc": 3
+  },
+  {
+   "t": "World News in Brief: Refugee funding, US migration policy triggers ‘cascade’ of rights violations, world forests report, restorative justice in Colombia",
+   "c": "Human Rights / Governance",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/09/1168467",
+   "d": "28 Sep",
    "sc": 3
   },
   {
@@ -191,14 +231,6 @@
    "c": "Bangladesh Affairs",
    "s": "প্রথম আলো",
    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVNDBIdTVjeEFtLVpJR0p4NWdSQzRUQThtZXppN1dFci1WNHd2VG1iT2k4eGlteXNBQjh2UkRtYTdBRFdNWlV0cE5HalljSXNsZzBPWmx4OHBtWW1MTkdKWTIzN2xZbXho0gF2QVVfeXFMUDA0OWJnVE5xWU1EaENUemJndXg0dDhFWWM5VzVVYUVvVl95MDVlMy1nRVVla2tpVlg3N3VaNHNqak1SZ05COS1ySDVTd3ZJakpieEUydWJVS0U1N0h1dTBhVDlfbkQ3cVFkRUdBMXRLYVd1Y1JDZw?oc=5",
-   "d": "01 Oct",
-   "sc": 2
-  },
-  {
-   "t": "চিকিৎসকের অনিয়ম, বাণিজ্যিক ভাবনায় আস্থা কমছে রোগীর",
-   "c": "Economy",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkaGFoT1NZd3hSb0VMVWplYmdIZ2JDMUFmSzR3WkNvYXRLbmt6b29iWW9NMjJwalJXWnZ3d2doRk5Ed3NjV0ZHaERNbEczWkZzU05rMjJPSzVBWGIybHIxWGpjMG93eUdqX1VMVzAzZHRUZll3?oc=5",
    "d": "01 Oct",
    "sc": 2
   },
@@ -287,38 +319,6 @@
    "c": "Science & Tech",
    "s": "The Daily Star",
    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGlpc3N4ajZLWDRUbF8yUFNJM0RtaWtTZUNlYlJ0UF9oOTM0blI1SzRUMlNRQzJJS0d3OHZXczlKNTFOTk5qbTNpZDNqWjA4ajRmQ1lySE40akZlU2h5aFRLcDhZUWlWRnFxVUgtd1A1RHRZS1N4WG5Zd2pXYlhWZTJJeERiSWdoVEFVb25GWkZDWlVVS1dkRQ?oc=5",
-   "d": "30 Sep",
-   "sc": 2
-  },
-  {
-   "t": "ফ্যান্টাসি কিংডমে কৃতী শিক্ষার্থীদের আনন্দঘন মিলনমেলা",
-   "c": "Education",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iUUY5ZjVRaHoydXdPd0Y5b1RLcERRMTJsRTF4RW9ZRUgzemtlbk9wZmhyNi1SNURnZEVfSDh3YUJfbHRNYWVSdThfT2Zrb3U4ZUFhUllmZXY5c2tzMzh2aWxOdTLSAXJBVV95cUxQelFSRUVCOUc4RWhiaWpBR0N0bmtXSlc3QzcxUGE4SWNpTWhmUlhyanJrd3ZtbU1PSXJqRTkyMnd1RHhUdjJ4Q1B4OUw5RWxCbDlubFdBX21PX09WTldlWUEwRjJlZ3FxSlZKd2lMRTZibVE?oc=5",
-   "d": "30 Sep",
-   "sc": 2
-  },
-  {
-   "t": "Speakers call for media role in youth participation in reforms",
-   "c": "Human Rights / Governance",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzB5NnBhZU5vTHZSVTdUY1ljZlZuTlVLQlhWTHFlWURoYzFLQ0lkYnNqdldlMF9WT0NOeVhNS1lVYnEzbzNxaVY3LV96b29lWDZNOFVzcUFibURqTlY3cF9keEdtVTFYSnZMWE1XYVpaRUUxaE9VV0lqamhoUzdqQ1B1eWdSZGt2M3YzWdIBkgFBVV95cUxOYk5iSTdKV0QzbmVIQzFxQVoxamV5VTV6WHZzcjRnRHZPTFpnM05WeWdNYTdJMWZwYlE1LWdaZFFsOU1MZ2xRRGN2QVlIMXdsYlNtM05jN3VrT19CdlpKdE1ZZnF5TjNuOHBOSXMxQ3BsUEQ0WHpCVVIzZXAzdGFEOHNMSnZObDRTT3drYWRDZWN5Zw?oc=5",
-   "d": "30 Sep",
-   "sc": 2
-  },
-  {
-   "t": "AIUB secures top position in Times Higher Education World University Rankings 2027",
-   "c": "Education",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbThmNkJnUnQ5TnF2Rm5jM3pHbDNXOEM0S1g0N2JtaFM1Z0dTX3NVQ3Y0WmpMRnZHWGZ6bm5lb0FRZzdxeE0td2padkU2ZDlnUWlpYXRPUEdVTU1sT195R3BkWjJGbjZwWjhqcUs3WFBZUVZKTE5tUW1oc3MyU2JwZS0zWllaSUVPOVRUeUJzUVlwSGpVdGRhaXVLZzPSAaIBQVVfeXFMTTRNSGJ4ZlRNYlZXZ2JQU1NuWXNERzBHTXhQVXUyZE9kQmFiTmVEVFhCMFNkRDZwcWppV0lkZkhzZW5QTkJyVFU0V2l4SkJYMm8zVHdlOGlTaGx3R1VFWms2MmdwV3hTbm5teER0LVZHUE9tcUp4NUJudUo4TGdsZl84bFVYQ3JCLWJEZmt0dGZhYmhvcHFDTGJTR3F5VlVkQ0ZB?oc=5",
-   "d": "30 Sep",
-   "sc": 2
-  },
-  {
-   "t": "ঘোড়ার গাড়িতে ‘শেফালী খালাকে’ রাজকীয় বিদায় দিলেন শিক্ষক-শিক্ষার্থীরা",
-   "c": "Education",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxSURYQVJNUHJLLWJ5aVRxSlNadmk1bHJzNVJRRlhTWk9qZExtdWQ1WXFTUlRndk1oUWYzeEUwSURxVTJpSHp0MmZZMWs3OFhxZ3VORVlvak5RaU5QUHBUYzFiQkxrdGk40gF2QVVfeXFMTlJZWnh6cTFTMEFIb2FFRW9nNE54UmtzUUxfSzRLZ2Q3XzIwdFQtXzhqQ0FuenM2Tjd4QnVMVURyaTExX2VlSmRGN25lRThHU2tyYmNNbV9MS2lSNDQ2QWFsQXNHdEdiSE9nemx3d2NXZXBLdXlkQQ?oc=5",
    "d": "30 Sep",
    "sc": 2
   }
