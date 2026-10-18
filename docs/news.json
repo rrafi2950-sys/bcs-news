@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-17",
- "generated_utc": "2026-10-17T15:48+00:00",
+ "updated": "2026-10-18",
+ "generated_utc": "2026-10-18T04:48+00:00",
  "items": [
-  {
-   "t": "Stocks rise as oil prices tumble after Trump hails 'energy ceasefire'",
-   "c": "Bangladesh Affairs",
-   "s": "TBS News",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlctc1ZHNTB3ckpxNU1FTjN3RFRLaVYxOXo5ZDVWX0VuQ1pNUnlhYUNzTHhXOEdTOFpmdmpZQkdsakVsT1FiVkpvMW5nY2U3ME1DYmpzNWhocUtFWFpJVjdGYTAzbkRkVTVXdnhkY21VeTRTSTV3ZW9qeEVpckk0azRFSUZ1NUJpWE1WTEszSzN0Y2hGZUlYblRLZXFYWm1rRlBqbGZsd3FGOUFKV0d2Yg?oc=5",
-   "d": "16 Oct",
-   "sc": 5
-  },
   {
    "t": "Iraq lost $60b as Mideast war hits oil exports",
    "c": "Economy",
@@ -17,6 +9,46 @@
    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRy14ZzV5bGhIeFRMZXN2ZlM2bkNycjRJLW5qRzlHckRjd09sX0x3djJZdmg2T1B6Nld1dkVfaEppYVFmVjVCanJzUG5DU3MxemVpOUcyWEhEU1pIY2piY3p4T3V4SEhYX0tycFBTUzdPc0JkMkN1RWtXQzNoRC1LUEVGUWhGQWhHTHo0T0JBUTlNbXE0NHc5eHhqQWgyTlN2WVEwUDVjOVF3MFQzM1plYVdPUEpxTmFQRFJn0gG7AUFVX3lxTE9HLXhnNXlsaEh4VExlc3ZmUzZuQ3JyNEktbmpHOUdyRGN3T2xfTHd2Mll2aDZPUHo2V3V2RV9oSmlhUWZWNUJqcnNQbkNTczF6ZWk5RzJYSERTWkhjamJjenhPdXhISFhfS3JwUFNTN09zQmQyQ3VFa1dDM2hELUtQRUZRaEZBaEdMejRPQkFROU1tcTQ0dzl4eGpBaDJOU3ZZUTBQNWM5UXcwVDMzWmVhV09QSnFOYVBEUmc?oc=5",
    "d": "17 Oct",
    "sc": 4
+  },
+  {
+   "t": "দুই বিশ্বযুদ্ধ পার করে ঐতিহাসিক লিমোজ টাউন হল পুড়ল দাঙ্গায়",
+   "c": "International Affairs",
+   "s": "কালের কণ্ঠ",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01N2QxZ1hiaWdhR2tudkRSTGpGcXExb0VMNk5FSjk4ZnlhV1lrekVCRnpIRjRiTHBRYnRVUks4WXFQR2kweU5PVERiOXAyU0FhajN3dV9Fd2g2cHlQbHFqS2VyVnVxX0NPSlpj?oc=5",
+   "d": "18 Oct",
+   "sc": 3
+  },
+  {
+   "t": "Central Bank consolidates licensing rules for forex and gold dealers",
+   "c": "Economy",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQXJva0JLVjVWR2lUc1VReW5Vb0Foa3FxNXRPLVc5SjJ6UHctM2FkLThBcmRsTnlLdHlMak54MzY1bE1JX3dvQWZscU5tR2h4RWk5U0JQTkF5TF9MUjlBRmZhbi1ycks3aUNqMkt2T2lBb2p3a2RxZUlQTnF2M1NLZEliMFYwNHRSMW9IUzhlMXRPdEpISEd1WE4tZG10VVprcVp3NTNuUjM5ZWNKRjN5a2s2d1lHcnlwZUplN1NOTEZDUERZcjZSTU1TOTcyOG1GMGJZZmVHd3NzZ9IB2gFBVV95cUxQQXJva0JLVjVWR2lUc1VReW5Vb0Foa3FxNXRPLVc5SjJ6UHctM2FkLThBcmRsTnlLdHlMak54MzY1bE1JX3dvQWZscU5tR2h4RWk5U0JQTkF5TF9MUjlBRmZhbi1ycks3aUNqMkt2T2lBb2p3a2RxZUlQTnF2M1NLZEliMFYwNHRSMW9IUzhlMXRPdEpISEd1WE4tZG10VVprcVp3NTNuUjM5ZWNKRjN5a2s2d1lHcnlwZUplN1NOTEZDUERZcjZSTU1TOTcyOG1GMGJZZmVHd3NzZw?oc=5",
+   "d": "18 Oct",
+   "sc": 3
+  },
+  {
+   "t": "BANK ASIA HOLDS WORKSHOP FOR WOMEN ENTREPRENEURS",
+   "c": "Economy",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2NuZGZvZnlsam05UFhnS21YTnd5eUE4Z2l2RnZTVmYxR2dnaG1Ba1FwQlB5NkFVeHNhTUJCRndwTUstYnhBdVQ3cXJmdWVwdGFKNTVhRVdsR3B0cDlCeHhDV1h2Y2FMM3VpNVBpR0dSdFNYV1BLb1RFNkYxdDZsUWxEdF9ZdjIxX19RamRjX2psS3pmbUJaaWxXZ0czeTZ5cVhBa3JBWTNhS0NvM3pWQzBYUTlTMzdEVjk1b1daSTh2eWPSAcMBQVVfeXFMTmdjbmRmb2Z5bGptOVBYZ0ttWE53eXlBOGdpdkZ2U1ZmMUdnZ2htQWtRcEJQeTZBVXhzYU1CQkZ3cE1LLWJ4QXVUN3FyZnVlcHRhSjU1YUVXbEdwdHA5Qnh4Q1dYdmNhTDN1aTVQaUdHUnRTWFdQS29URTZGMXQ2bFFsRHRfWXYyMV9fUWpkY19qbEt6Zm1CWmlsV2dHM3k2eXFYQWtyQVkzYUtDbzN6VkMwWFE5UzM3RFY5NW9XWkk4dnlj?oc=5",
+   "d": "18 Oct",
+   "sc": 3
+  },
+  {
+   "t": "China's central bank to further open its financial markets to foreigners",
+   "c": "Economy",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMmI4RnJjZHpsclByUzc2ZldRVlkwUUc2b3hqZXJZNC1TQldZanJRZFQ2cTh5VjQya0hGYjItaGhkOXJBT2xoSXNKdFl1MDR2SWY1UVhPWmJ5YVlmWnVJNUROd1VHWGhfR1VQdEhsWWo2OFJZNXdJUmktMWZsNFp0b1hGOUt5bEEzRXNUVzhYTlVjUFNYMVRjLS0yX0J0WDFyZTdWcWc2WENJM3B4SGNjMHJpV1JrQTdjVkZfNnE1R0pzNDhnV2t6djRYTENldXRQd2pBbTNwMklva3cyRjlDTjZR0gHiAUFVX3lxTE0yYjhGcmNkemxyUHJTNzZmV1FWWTBRRzZveGplclk0LVNCV1lqclFkVDZxOHlWNDJrSEZiMi1oaGQ5ckFPbGhJc0p0WXUwNHZJZjVRWE9aYnlhWWZadUk1RE53VUdYaF9HVVB0SGxZajY4Ulk1d0lSaS0xZmw0WnRvWEY5S3lsQTNFc1RXOFhOVWNQU1gxVGMtLTJfQnRYMXJlN1ZxZzZYQ0kzcHhIY2MwcmlXUmtBN2NWRl82cTVHSnM0OGdXa3p2NFhMQ2V1dFB3akFtM3AySW9rdzJGOUNONlE?oc=5",
+   "d": "18 Oct",
+   "sc": 3
+  },
+  {
+   "t": "SONALI BANK INAUGURATES SOLAR SYSTEM AT ITS STAFF COLLEGE",
+   "c": "Climate & Environment",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzdtT0k4VlZHekQ3Rkg4Qlp1X2FSOGRwN2RDUV9uWV96Z2tQT2gzcjAxOXpCQ2FRZTVKbGxTOHhrM1ZqdHMxdVlVcVZacjA0aHFzWEZZbkY1V1hmcHFoWUhfQVpfTk54YXZiN0pzUU1ZZmp4TFdsNFd5X083NG5wcV9nZ3didkRpN1ZmT0oxVVJHMTBkMlp5TUtiUkdiSEdBNkdkNDhEa0JTbXlhZEptMGFOT1F4bG5sYkRNUG5zZzVyWnRFbjhJOUdoc1NPT0nSAc8BQVVfeXFMTVc3bU9JOFZWR3pEN0ZIOEJadV9hUjhkcDdkQ1FfbllfemdrUE9oM3IwMTl6QkNhUWU1SmxsUzh4azNWanRzMXVZVXFWWnIwNGhxc1hGWW5GNVdYZnBxaFlIX0FaX05OeGF2YjdKc1FNWWZqeExXbDRXeV9PNzRucHFfZ2d3YnZEaTdWZk9KMVVSRzEwZDJaeU1LYlJHYkhHQTZHZDQ4RGtCU215YWRKbTBhTk9ReGxubGJETVBuc2c1clp0RW44STlHaHNTT09J?oc=5",
+   "d": "18 Oct",
+   "sc": 3
   },
   {
    "t": "ইনানীর রিসোর্টে আগুন: নিহতদের দুজন ঢাকা ও জগন্নাথ বিশ্ববিদ্যালয়ের শিক্ষার্থী",
@@ -35,18 +67,10 @@
    "sc": 3
   },
   {
-   "t": "Bank Asia holds biz mgt, financial literacy workshop for women entrepreneurs",
-   "c": "Economy",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFNUSlB6Zy13MzBKN203bFFfYkhxZTd6ODBJU0VTZFRTQnF1cUcyazV3cXNxWnI0anBPYjB4Y1AxWmlHbWRQaUJKaFl1ak5WSEVRZ1l6dmdnemRUcS1mam1SbUZpM2p1RHpZQmJkS1ZGNldOWmNsWDNPM0dSSE51MThpVVNrZEdRbE8xY2F6RkZENUx3S3hwetIBngFBVV95cUxPVkRtVGpSdGRTaERvQkV5ajN4cEhDQ1czMGVNdVRqa2VXcmgyRDhiVXRpdGI3MDZxSk5Sd0tOOG9tekZQWFRpZmRWS04xUVFVRVhablJHYkIzdmJjd0kxbTlXTFJkXzZHLXBTS3V2bF9fS1VIdVd3eVMxYm9ZekVfcTdJNTRSMS1qX1J5Wl9Tc25iY1l6MWlkd3RKQjRqQQ?oc=5",
-   "d": "17 Oct",
-   "sc": 3
-  },
-  {
-   "t": "উচ্চশিক্ষার স্বপ্ন দেখো, বিশ্বজুড়ে... | স্টাডি অ্যাব্রোড ফেয়ার ২০২৬ | পর্ব-০৬",
+   "t": "উচ্চশিক্ষার স্বপ্ন দেখো, বিশ্বজুড়ে... | স্টাডি অ্যাব্রোড ফেয়ার ২০২৬ | পর্ব-০৫",
    "c": "Education",
    "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PWm1IM3BOS01EeGJWbnlpWmk2eEFXVTMyNkllWFJIN3E0OE1CQUxoQlNMT0FlTGF5eWtWS24yVHJUYlZwMVgxYUhzbUpVZHAycF9SR19R0gFjQVVfeXFMTThudVFmSnc0SXViZGlxLU84bmJheXVKdnVjcUpwNGhnWHhvRWFJRE8zcEsyX2IxRXlBNmJnNFl4VzE5WXBxVjZadFdNci1JRXpnbVRjSnpMYzVCUUhhU0k4REJ3?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SREFQU1djeHVxb0tpdjJZRUZvOVFCVXB5QVIzNEUzN0dZSVVqRjNLdXFBSHV6LXV6NTE0Ukk1OFA5R25xd1RpZHB2ak8wY0NRUGd1d2RR0gFjQVVfeXFMT2ZkOG01THA2X0FCcHl5eTlVd0ZaT1loRnY2ckluRUcxR2o4cTNTZ1NDeXNmLUVueVh4UnRaXzlMU2VQcGkwUzlscldxQXlvcUNjVXdXSXJkbTJRQUxHcEhWMjA4?oc=5",
    "d": "17 Oct",
    "sc": 3
   },
@@ -75,26 +99,154 @@
    "sc": 3
   },
   {
-   "t": "Climate shocks threaten growth, employment and investment",
-   "c": "Climate & Environment",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVpMWWczZklSRlNLdTNRNEhRZm4xcF9hVWJ0SmRfS1J3SGw5YmpXOHlLWGZQQmZPRS1LUVAtSHhrYk41MW5yaThlbjlWYVJNXzF1c3FYNTFQNU9rMDQ1ZTlnOGgyWDViVWRSb08xckZaNEl2dl85cHBobnZQdUdWSVVIdFJmcVR3VG5UeDRCQkpjeVE0Q1dLejdCYmRxdFJjbnNDMFFHRFZybG9laTN6NEd5bEt5WERsck1icXRnUzhHY3RHSTNB0gHHAUFVX3lxTE1RWkxZZzNmSVJGU0t1M1E0SFFmbjFwX2FVYnRKZF9LUndIbDlialc4eUtYZlBCZk9FLUtRUC1IeGtiTjUxbnJpOGVuOVZhUk1fMXVzcVg1MVA1T2swNDVlOWc4aDJYNWJVZFJvTzFyRlo0SXZ2XzlwcGhudlB1R1ZJVUh0UmZxVHdUblR4NEJCSmN5UTRDV0t6N0JiZHF0UmNuc0MwUUdEVnJsb2VpM3o0R3lsS3lYRGxyTWJxdGdTOEdjdEdJM0E?oc=5",
+   "t": "Bangladesh overtakes India in per capita GDP, but IMF sees India regaining lead in FY29",
+   "c": "Economy",
+   "s": "TBS News",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0JsamozU05hOWJjRVZLMGU4dnBZWlBjaHd3X2EycGR4bnU2cDZLaTRqMGhlU1RRYk1zVElRYXVCUmFBbTFTMVRhQkU4d21UczBqanBHcTBfdmExMGN1aEt3clFDdzZaSXFPQXVkQTV2dHc5M3V2UGFZTS1ld0xLRkZxVWRnXzVEdVVrb2FIblRrUTlZX05MOWc0YVZnSTF6T0tZOEg2Q3hTa1QxeGFkSGN3?oc=5",
    "d": "16 Oct",
    "sc": 3
   },
   {
-   "t": "Rich nations yet to meet climate responsibilities, says Moyeen Khan",
-   "c": "Climate & Environment",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV1dOTWtwZktKbC1lUFI4ZlhNSEFnczlZWl9iN19tRXNnaXBtSnhSTWxaRHFlQ1FSajc1eFZkLVFQNmFjam5mS1pvSUZXOVFTWk9UMnh4V3ZVWDJsN0ZXdkVUSjkwM0xTa2ppSzJwLUtadmRVbDZWT1A2a083a0J3ZHhpZmxsQ1UwemxSUzd1NFhzS3pocC0zbTZ3c0V4bWtxVjRTOFcyTm5tLTRpZVg4ZnhhbEV1Zi1OU01ySlNZYVZQN04zZ2ZqWnJuNTBrdkxBRUw0T3A2WTR6RGxBTlHSAd4BQVVfeXFMTVdXTk1rcGZLSmwtZVBSOGZYTUhBZ3M5WVpfYjdfbUVzZ2lwbUp4Uk1sWkRxZUNRUmo3NXhWZC1RUDZhY2puZktab0lGVzlRU1pPVDJ4eFd2VVgybDdGV3ZFVEo5MDNMU2tqaUsycC1LWnZkVWw2Vk9QNmtPN2tCd2R4aWZsbENVMHpsUlM3dTRYc0t6aHAtM202d3NFeG1rcVY0UzhXMk5ubS00aWVYOGZ4YWxFdWYtTlNNckpTWWFWUDdOM2dmalpybjUwa3ZMQUVMNE9wNlk0ekRsQU5R?oc=5",
-   "d": "16 Oct",
-   "sc": 3
+   "t": "Lalon Shah Akhrawari Ownership Dispute in Kushtia | Who will inherit Lalon’s spiritual legacy?",
+   "c": "International Affairs",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXdrS2dpRnNEQjdBZkVXaktITDBlSF9hMjhIVHk2bEtzOE85SmNiTUtycTRCZTFZUFZyTE1KUm1UbzRsMzlkSjhPVW9Dbkt2bHFPanpMUE1FUDNPZ1NRcTJ0UkFXNXI1Q0hrbW80NUEtSUV5OFZYNUdLa1FDaUxScnN3bDQxeFdzSG1lcVBfUDRnanNmaUhadmI3cVc?oc=5",
+   "d": "18 Oct",
+   "sc": 2
   },
   {
-   "t": "ইউনিগ্লোবাল: বিদেশে উচ্চশিক্ষার স্বপ্নকে বাস্তবে রূপ দিচ্ছে যে প্রতিষ্ঠান",
+   "t": "গর্ভকালে নিরাপদ মাতৃত্বের জন্য মুমিন নারীর প্রার্থনা",
+   "c": "Bangladesh Affairs",
+   "s": "প্রথম আলো",
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmMGZmODg2cU1uS09ORG5qZTZKdF80ZEo4RzB0aVJuQUl1S0N6U1FYTFNaRHBfNXcwdFRISW1rZGhlbmNnNV9SSUN0R0FEOXRvV2N1SGM2Sy1RODdqTzl4N2l30gFvQVVfeXFMTXFURlMtQ1hBc0FTRms2Qm5zbmlsLTFPLUlVenRNWWlNYkotcVBNbE9fV3FKRG9qa0l6ODFWcDFHby0yYTc5b2gzMWN2LXoxZTUtek92VjVMcUY3QzlBZklVWUJMNjFvNkFoWGpGMnVF?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "রাশিয়ায় বিদেশি শিক্ষার্থী ও স্কুলপড়ুয়াদের জন্য অনলাইন আইন অলিম্পিয়াড",
    "c": "Education",
    "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOU1Da2JPRmI3SXZ4T2NwNFNCZFhuNU1xLXA0dWwxanhSRE9oaE14aGdfUWlRYVBmODdveWtZSkhKSFdIeDZFVTVfMWxtakYzQXI3ZzJrWVNteURFZU93ZjZNb0lrZFZDYk9mSXRXaG14Z9IBf0FVX3lxTE1tMmNPc3Vkam5PbFp1WU5ncFlqNjE1UW12M1kxVDNjUWpMSUQ5U01JcE1MV1U4a2F0VVhFdHExMUNyTkJiZUs4ci03OXJoVWcyNnVaUGpEeElMaUNLcXFlWDBhVmN3MGxfRnMxc3BaQVRYUDJ3MXJLNjlkWVZuc2s?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBReHFYQzlULTNNRzBkZHVQMGVJWXRBX1pQdWlwelJkX3YtT21UR0JVMDNlUGdPSjdYQWRuM1lzQU5UQUJua05ZSmV2bUZuVW1SUHZPT2Z0a1o3OEVuYnNScFR6WkVlZldWS2tV0gF4QVVfeXFMTlFTQnd2d2dKa3JPZ3I2RDZKVGVRaVduMEVVZzRUSGJtS18wX2dYTWJqNTBLcWVNSXFPMTNDUVdOeFAxd0xKd0QwWWl3TVh5RUNnVW8zd1k4NjhjcE1yeGUtYjgyRjNPSDc5VXBSLVhPdnROWk43VVpt?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "c": "International Affairs",
+   "s": "BBC World",
+   "u": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "IMF cuts Bangladesh growth outlook, raises inflation forecast",
+   "c": "Economy",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWRiV3lNWWl6bzl3VWxEek1rZV9EWGExSURzMEtxdHZyNmlYT2xkX1FXVFhFOXhiTnBYVEZYSVVtR0lHQzhkeW9TakRZazFHYTFKdWFyMjlSQ3k1bXhpRFdpeU5EcjdRUWp4eWgxRW5waVFWTW44aHE4RmFCZ21IblR4Z21kWEdEY2JVaG1mT3dsaXV3VmZBWkIta3N1TWptRzdjZzdJTnpWb0IzZUxOb2VxNnNCVzhHYy1Z?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "Trump waives planned 100% tariffs targeting India a day before deadline",
+   "c": "Economy",
+   "s": "TBS News",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXBhWEdtRTVoaVB2dC1aU19IOENBejAxYk1sZkVUSk96YWVCUE9LQnlpM0FRdy1tcU10ZFRRV3p2d1dpZ3VMNjY5czNqaW01RFpFYnh5X3NKM2ZiNi1sbzQ3cEloeVB5aU5JNW42dTJBWTZPZElmRjEwSEpDSU42M24yY2RhWXVibkZkVFZNUlR3dUdzTjgtZTVuY01oLVNwNEtualM0eVZENEN4LURwMTdLV3o?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "‘মুক্তিযুদ্ধ ইস্যুতে বিএনপিকে সঠিক সিদ্ধান্ত নিতে হবে’",
+   "c": "International Affairs",
+   "s": "কালের কণ্ঠ",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40clkzQVJQMGNTXzN4ZENtdGloX0tiam5nc2hTeVllZXhEaWFJc2lvQmdCTzVOZklQaHl4b0ZQUkRKaWJ3T2FOUEk5OENOY19XUVptTFA5WnBWaGJTZXlSZEV5YmEwUElUOXlLbkxaRFQ?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "Why self-replicating AI is worrying experts",
+   "c": "Science & Tech",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1NRY2xyLU44Wk9mQ3lpRFB0dG85bDFkcE5YYjVlT2lJQktjMFJhamxKZDRWVkFEamxBUk9CZ0wwMVN5akpLLTl6QXdmV21fSkJpTm9adXJDM2V5MjFxZEJMNkt4U0dva2prZjdPbzlpbXl5QklsRG5uOTc5LXkxVWVGc0FHSFF6Q2pmVzZwY1UxTHNjdV9aVnA1cjdnbXM?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "কলকাতায় পূজামণ্ডপে পদপিষ্ট হয়ে নারী, শিশুসহ নিহত ১৮, আহত ৩৭",
+   "c": "Bangladesh Affairs",
+   "s": "প্রথম আলো",
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JY2hGSUx2ZWZEWUhsRDd6SUl3QU1KYkI4UEY2THYwdDlrcjRHNU8yMkQzakJscF9FLWxITmdueDZubDM2bUQ5YzV5cXAwTy1xMGRBckRnUjdpN0dtNVHSAWtBVV95cUxOMDhfajZ6Y1B6VjQ3STY3aFQwWS1XaVpDWXVHbnhzTE9DRXkxYWF2Um5HMVdPV1AzZ3JuWlZSTEhOWHBFNmNMbmhpMDVKVHlNYTJmUW5aOUh0VVJObGhBd0xEalJVNFFyY3J0UQ?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "PM’s visit brings a quick makeover to Shaheed Suhrawardy Hospital",
+   "c": "International Affairs",
+   "s": "Dhaka Tribune",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmJmZnpYVzByeDAwaVBZZVNieE9qQ1UwSWJFNE16LUNSMkRodW9rU3kyYjJCVlpNX25YSEhRbzV4LTdzSDVVdHNaczBwX21IdjB0LUtGbWpFVmFYZ0xsYVVRZkdHYnpJTVA0VWpxbzViYWhvY0xCQ0MyMm9oU3owVVN1d2FpVkR3Vzd2bFNtMm4xXzlENEtsWFpBT2xvSlZHN0HSAacBQVVfeXFMTWhrUVNZR25uRXRfcXVNbFZuU3o2RWliSGhoYkpQMHdIeWc5NlhURUdfS3FReDBoRVhBVmR2M1RNZGJLdTdGcGh0ZTdnb0NaRU1IT0VzRC1oU2VIVDNnNHpxbmhpUURMaDZvdTVtQ0VNOGEzTk9rajZEeWIydVgzMVQtQ2szdHhvTVhRUUNrT3J0ak5YZWtWcEREYWp5LTNvN0pyeHpGa2M?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "President stresses joboriented higher education",
+   "c": "Education",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0FKQk01bEc3VWNESzc3dGNTTEFZaWJ5WEszd19qSWl4WmVJMDNkeC0xOGdrR1FzaENVSklBRjF3cVM2SnV5SmtjLXFxMWg0eUFFSk1aMExqRnBMNzNPcXhpWXU1YkxhellSRW1sYUkyMzdveVBZVWJrQUxzNFJvNXhjT0MwRkJLam04by1oSzd1SHlWSmRnWTRwMFRhNktMa2JDdDAzcFd2cEZ5cnpzU0VhWDZsTm9MWFlnV9IBvAFBVV95cUxOd0FKQk01bEc3VWNESzc3dGNTTEFZaWJ5WEszd19qSWl4WmVJMDNkeC0xOGdrR1FzaENVSklBRjF3cVM2SnV5SmtjLXFxMWg0eUFFSk1aMExqRnBMNzNPcXhpWXU1YkxhellSRW1sYUkyMzdveVBZVWJrQUxzNFJvNXhjT0MwRkJLam04by1oSzd1SHlWSmRnWTRwMFRhNktMa2JDdDAzcFd2cEZ5cnpzU0VhWDZsTm9MWFlnVw?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "bKash wins 'Fintech Innovation of the Year' award",
+   "c": "International Affairs",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHNmd0R1RlY2NU0tNUU4S2cwdXNKU0VlQzNXYWhHUUJuUGg3TzNYcDIyMkZLZGRadm9WQmVBQmthMlBMdW96SUNfMmhTZk8zRVVIdFVLMHNKMEg2MEN6UGFRMk1PZmlXQ1lkc1Y3cGkyWTZFSWZoRG9ERHhSQmtzbm9uSlk5QVpIbGtNVkdLOW1PTk1HaWttS2tnLUYtLVgxMWM5WlczMXMwSGc1dnNNZy0wRktyREVndkVNM2tn0gG-AUFVX3lxTE94c2Z3RHVGVjY1TS01RThLZzB1c0pTRWVDM1dhaEdRQm5QaDdPM1hwMjIyRktkZFp2b1ZCZUFCa2EyUEx1b3pJQ18yaFNmTzNFVUh0VUswc0owSDYwQ3pQYVEyTU9maVdDWWRzVjdwaTJZNkVJZmhEb0REeFJCa3Nub25KWTlBWkhsa01WR0s5bU9OTUdpa21La2ctRi0tWDExYzlaVzMxczBIZzV2c01nLTBGS3JERWd2RU0za2c?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "President Mirza Fakhrul Islam Alamgir visits Dhakeshwari National Temple in the capital",
+   "c": "International Affairs",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQzJtMmh5Si1LMzZVc29PeGRFaExyNF9JdHBMSkZReExqMUtqWnBBdDVrZHVtWGhQS2NER1JmOVpGRUFjTzlHWi1IRTF5eUFlTHBWeXJSSFNhczRvUUtlNVl6U1hKVzJRaVE1OWdUeUlHdXhVVDJHSjJHbkFXX2xKX2drZlJSRU5PeFlRYjVpVndicUtpLWxyaDJXOU1NenZiQlpSUEZXWWZJOTRZSU9yc1VyX1lCS3JZQ0tySTNUc1g2eUpmRFRWQWYyb2JHTC1jeFJMdl9IYUE0YlVsb0pjcUtBT0g3bkY1N1BEeXJaVnRaeXowRzZHb2x30gH6AUFVX3lxTFBDMm0yaHlKLUszNlVzb094ZEVoTHI0X0l0cExKRlF4TGoxS2pacEF0NWtkdW1YaFBLY0RHUmY5WkZFQWNPOUdaLUhFMXl5QWVMcFZ5clJIU2FzNG9RS2U1WXpTWEpXMlFpUTU5Z1R5SUd1eFVUMkdKMkduQVdfbEpfZ2tmUlJFTk94WVFiNWlWd2JxS2ktbHJoMlc5TU16dmJCWlJQRldZZkk5NFlJT3JzVXJfWUJLcllDS3JJM1RzWDZ5SmZEVFZBZjJvYkdMLWN4Ukx2X0hhQTRiVWxvSmNxS0FPSDduRjU3UER5clpWdFp5ejBHNkdvbHc?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "শিক্ষার্থীদের দেশের উন্নয়নে অবদান রাখতে হবে : ভূমিমন্ত্রী",
+   "c": "Education",
+   "s": "কালের কণ্ঠ",
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBULWpyQ0RJZXh5MHJHMHBCSkRtVEswQmkyd2RaS3M2QWROd0o1WjdlQXlPQzRzeDlSYTVHZGZWN015ZzJoMXJqd2lvR0ZaUVRHWWllR0FtdHRhZmRxb1hvRDc0UVJqWloybENNejVwdjVRZWs?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "মার্কিন অবরোধ সত্ত্বেও এলপিজি ও জেট ফুয়েল রপ্তানি করছে ইরান",
+   "c": "Economy",
+   "s": "কালের কণ্ঠ",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TRkFZY2g3cnZoWUVDd1RrQ1oxeEhnMTEzS3ROMUxUdEU5QzN3ZEZlS2ZhVDM4c3Q5dkt6NXo2U0l6YTZfVUYtTFFlYzFGWVNjYnZHRkRmeVJiODBuWU03a1ZwMGtac2lFcWRPVXVBcW16QnlTdUFnRXhVZV8?oc=5",
+   "d": "18 Oct",
+   "sc": 2
+  },
+  {
+   "t": "মির্জাপুরে ভারতেশ্বরী হোমসের শিক্ষার্থীদের আরতিতে মুগ্ধ দর্শনার্থীরা",
+   "c": "Education",
+   "s": "প্রথম আলো",
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjelBNWjJwdXI3QlFGU08zNlhXR21Pa196a3VFSEZIRkpYMURFMDk4b3VxU2hXYUhFNUNhNnFDNnU4UGJRbDRZQ2VOSngzTkhQdjBGeUtNczNDdVlTYXZVZ2hYc3p1b1ps0gF2QVVfeXFMT3l1V0dLQjgwZmdSZGFOQW83cDlSYnItNjc5T00zcDJSb0lSSF9jVkw5TzVQenZueU1KaHU5Rm9NTVViYy1DQVdFeVJrUjJNOVQ4a3JETTAwZ3E1Qi1ReHU5MTNtaEFjYWl1Y0RtczdDSnBVSlJ6UQ?oc=5",
+   "d": "17 Oct",
+   "sc": 2
+  },
+  {
+   "t": "President stresses market-oriented higher education to curb unemployment",
+   "c": "Education",
+   "s": "Dhaka Tribune",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1pTMFlzVWUzNTI0RDdCdy0yQnZ5OXBlMWdaNHNwdEpyT1Jab2hCOXZ0V0VhcjFOeklEMm1qT2NxLWM4RDBjdnNFZ3YyVDZqZjk0VWdJQ214YnhMQnZXNlMtcmJyX0M1UlpUcDNNdV9qV1JsXy1SNmVJNV9BMVJpRlliZkE1VjFhUXNUejBQV3ROYXY0M0d2WGRSQdIBoAFBVV95cUxNSkVPZGxDcTJobEhtYTF5VTVRQ2VSTEt5R2VUZmg3UjlpM3p2dzRuMU9FcWdnT3BzSjdJalk4WUNBbFpiZExybkpvNkhVNEg4Q1ppdlh2eFU4eDFOX0E5ZTRTb2ExN2d4eUFFWnktX05CT0dENXVJaWZaMm9OSUloTkRQXzRYSFFyb1JiZUV3VGg0a3hxNVpGbUhLdk5PekdK?oc=5",
+   "d": "17 Oct",
+   "sc": 2
+  },
+  {
+   "t": "স্থানীয় সরকার নির্বাচনে ভোটার স্থানান্তর করা যাবে ৩১ অক্টোবর পর্যন্ত",
+   "c": "Human Rights / Governance",
+   "s": "প্রথম আলো",
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMUNRV0J3djlRR0JvUnRfdnQ0VHloMlcyRGg2VTZTMncxanpJdlNUMWhaV1ZrcXlNTmpHVHdKaUc4OGs3cWR6NWRLZENqX1NYdkJkUlhfOGppUdIBZ0FVX3lxTE0ya2VlMG1pSXlGdHZ4eW1XbE9sVmZDR3I0RWR2NHJ6OUtUcEliWHdwTlRLdDc1MFdVeFU2Z29FSFloaFAtNGg4WGNpeGpFeGFjRzRJZlV0RG1TNWFIRkhOdjJvdmRzVG8?oc=5",
    "d": "17 Oct",
    "sc": 2
   },
@@ -107,34 +259,18 @@
    "sc": 2
   },
   {
+   "t": "253 women, girls raped in three months",
+   "c": "Bangladesh Affairs",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDUyZS1FdS0zcTJTZmk3UFd0bDdMM3VmbWltdE44M0FlZ0NOcTdWblJ2RzBNaWhxNHZ6b1VTMDVUQmZfbVFXb3BIUlhUOU1TYnZkX0xVc1JvQ0RiU1AwNEtEeTMwOFE3bXhzUnpBNTg0ODNjR3NkdzdISUFKRHNKUk5qNFZuZGN0RVBXdGtxa0trSHZhYW9ZX1U4Zw?oc=5",
+   "d": "17 Oct",
+   "sc": 2
+  },
+  {
    "t": "51 flights disrupted, over 5,400 passengers affected by Saudi Airport crisis",
    "c": "Bangladesh Affairs",
    "s": "The Daily Star",
    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUVIxN0UyX095a25hUUdEOXpOdXRobDVqQ0ktSHJSUm1uZk5KYzlEVEk4SmNwazBDY1Y3U05kZERPRkFtd3BYLWt0UlR1Y0NtZmw3cmRReEZMRjllQUFUWWo1blA1UVg2c3FrMVJPYXpmR091OU5VQ25KeU92TTN0Y054RkU2N3czV25wM0V6LV81RHpLU19iN21ONVpkazMxYXNHYkJnMGhXYnd5SVRtUmFZVFRsTWFQdzQxSnhMaTdVQXNXbndqOHB4R3ZWWXpKUEk0MzNn?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "bKash wins ‘Fintech Innovation of the Year’ at Bangladesh Fintech Award",
-   "c": "International Affairs",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHo0SHF2OFpoOTJBb0thVVRNaXZyeW1sNDl5M3hQUV96MEc2Y3NKVEFEYVlSdFB4UzdmT1Zkbk1SdklnWWxhU2NjRzRsMFJETlVCV0U5VGJud3ZfdjY0SkQ2eGtjaVVBT05hbF82VjZ6SnotT0pMNnlUMjcxMHh4MFFKa1VVTEdCbkhCQ2NWcjV1YmZJczJ2UEROWS1tczNzTHRHekJLV2R6cWPSAbABQVVfeXFMUGpqQkZOV3hGdTc0eGdXeF9lMUhLRXM5MVVZdXdkeHdZblE4VlNHRjdROWQ1UkxyeV9HRHlwZ28xWEpQNk5yQ0FBS19PSURpdENrMEt6emRWS2lnbURMb3cwUFlpbmUyY3BBMWtjckpZWjdTTEhFbllBcXgtV3pxbEI0djlCQVY4U1dqV0xaRXg0V0JHa2E3bEdUMVRydkdmUFF5RHViUnhDVFpoTU1GTTE?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "রাশিয়ার ওপর নিষেধাজ্ঞা ও শুল্ক আইন কার্যকর হওয়ার এক দিন আগেই স্থগিত করলেন ট্রাম্প",
-   "c": "Bangladesh Affairs",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YSFh0OXcydmxFdUFCa1dUNmJCTng4TE9qNVdoWGhoaG5kckU2ZTEtMVNnMlFQdGFGZVFTajJjbmphV3JPd2NCbG9wbFQ3S1RKc1NfX0hEU01tVW_SAWhBVV95cUxNY2tQM1hUZkhFbXN6c3ZaSlVCOGtodDJWakJGcjVlYWdLakxHMGM0aERQOG1teTltNzZlMW9uMWtYTVJVSk8yMEtqZVBvSW5HaS1hdWhkNER1VWVKT0hhSndzYkFuWnZRZA?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "c": "International Affairs",
-   "s": "BBC World",
-   "u": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
    "d": "17 Oct",
    "sc": 2
   },
@@ -163,14 +299,6 @@
    "sc": 2
   },
   {
-   "t": "কর্ণফুলী টানেলের লোকসান তদন্ত করবে সংসদীয় কমিটি",
-   "c": "Bangladesh Affairs",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wa3pZQ1FpckUxcEN3S1ZqeTBadmp2ZjFjcmFybl81OHAzRDdMMjZ1QzQ5NkpfNGFJMExfZVpXRHB1TXRfUjYyV3gySXI1TVhiZmNBZy1Xc2VmSGcweXB5U19ZRk1vYVJIZ1FWcXlKQQ?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
    "t": "Russia hails Trump waiving sanctions as ‘historic’",
    "c": "International Affairs",
    "s": "Dhaka Tribune",
@@ -179,18 +307,10 @@
    "sc": 2
   },
   {
-   "t": "Lalon Shah Akhrawari Ownership Dispute in Kushtia | Who will inherit Lalon’s spiritual legacy?",
-   "c": "International Affairs",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXdrS2dpRnNEQjdBZkVXaktITDBlSF9hMjhIVHk2bEtzOE85SmNiTUtycTRCZTFZUFZyTE1KUm1UbzRsMzlkSjhPVW9Dbkt2bHFPanpMUE1FUDNPZ1NRcTJ0UkFXNXI1Q0hrbW80NUEtSUV5OFZYNUdLa1FDaUxScnN3bDQxeFdzSG1lcVBfUDRnanNmaUhadmI3cVc?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "ওমরাহ ভিসায় মসজিদে নববিতে বিনামূল্যে কোরআন শিক্ষার সুযোগ",
+   "t": "উচ্চশিক্ষার মাধ্যমে কর্মক্ষম ও দক্ষ মানবসম্পদ তৈরির আহ্বান রাষ্ট্রপতির",
    "c": "Education",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IYXpuTldIcTM2RlpVRXpjRXlvbXJZYXk4dWJLWTc1c2RFLXJFdFNzajRVa2lyVDRVN18zWnJVVXo1aDFJb0NmXzhkMExqZ0F1MnRCQzdQUXVBWmV0UlZjbGhn0gFvQVVfeXFMUERGbDd0SEFRLVF0R1hTeWw0T3d5LXdrZ0VtS2ItYVFhbTl0c2ZYSWh3dGhsV1JTQmYtZFBQY3JLSkM5TVpYcXZXZE11aDY3MlhxWEI0dmFHUjVoc1FlM1A0bWFIWGtmdzY2NUc0bW80?oc=5",
+   "s": "কালের কণ্ঠ",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnT01xb1VvYlFwNFlyWjVualBCbklOZlZrUWIyTGZhVEFkaFNfTHpyMHhSXzI2T1VNdEtuSHBMMlN2a0ZuVVBjcmxtR3JvQmVKRTIwSkdOd0JOUHNPcTc3SFkyR3QxWHJ5dHZTZjVoM3hQQnVxdk0tVGNpZmk?oc=5",
    "d": "17 Oct",
    "sc": 2
   },
@@ -200,126 +320,6 @@
    "s": "TBS News",
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tRy1DWk1mTlVVcGJ1MXRqLXRZNHdBeFN4bElPUVJsYUNMQUN4ekVrM19GNlp2M3BId1FKSmd6VVQ1RzRDSVd5cjh5Zk5nQWthREctMzJ1NlhVa3B5aTdYZFZlbENTMGtOY1dXdzlyangwU25W?oc=5",
    "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Bangladesh, WB, IMF reach policy consensus on reforms, govt focuses on investment",
-   "c": "Human Rights / Governance",
-   "s": "TBS News",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGtSWmMzelU4eDB6aXZBWUxEZnQ2ZE9WYjRHS3JVX2RJd2pXRGUyc0p1NUd3YlVKOG01S21fNlNiUDRMbG5YUU84Nk5zdU0zMHhBQ3RXd0cyYW5Ed3dRVDFTWDc3WFZPLVplZi1FcVhmV19vc1pYcGFYU2xyT25udHpVSnEwc0MwVUk4MWlvZzdoSXdzUDJMV3E3TFhKOTZaLUVxM2MxLWE2blBPTk9NM0Z3?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "ডেঙ্গু : হাসপাতাল ও শিক্ষাপ্রতিষ্ঠান পরিদর্শন করছেন প্রধানমন্ত্রী",
-   "c": "Education",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16dmdYaTFlXzFiS0h0eldJNkNQY0ZaOFJYZjRYLURRLVcwQnlKQTdQeEEwT3VYMER2LVlSZmdNZGxzNkpwYk1CRkpSdEh3QURqSjE3Qk4yUm84QUl3YlpDYnE4U0l1TnFWQXVlVnFacw?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Brazil sees record fall in Amazon deforestation as key election looms",
-   "c": "Human Rights / Governance",
-   "s": "BBC World",
-   "u": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Old worries stay as KL reopens labour market",
-   "c": "Bangladesh Affairs",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmtiSUxlc05HTWNMRWxzaUtfODlsbUVibFEwTHlfX05LZldRekd3ZnpXcWlzRWVncnZSYndoX1FGdkptakFtZ2dIcFRfc2JWeGtZd1F5UVkxWDZaOWgxd0wwOG9BenRJblI1b3lnRXFiSkxucXE1ay11ZERUbmRuSHp2ZGVnYWtyVXowVlZBMGJCbDlKY29PSHBHQ3cyclNH?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Why self-replicating AI is worrying experts",
-   "c": "Science & Tech",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1NRY2xyLU44Wk9mQ3lpRFB0dG85bDFkcE5YYjVlT2lJQktjMFJhamxKZDRWVkFEamxBUk9CZ0wwMVN5akpLLTl6QXdmV21fSkJpTm9adXJDM2V5MjFxZEJMNkt4U0dva2prZjdPbzlpbXl5QklsRG5uOTc5LXkxVWVGc0FHSFF6Q2pmVzZwY1UxTHNjdV9aVnA1cjdnbXM?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "China, N Korea open border bridge to boost trade",
-   "c": "Economy",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEsxS3hzcWxmb3d3OGlabkxKUUEzY1JUVl9tU2ZuWm1fdDhYbDhCWDNSRE9ONGlNSjh2SDlvTzR5TmZOV0xJd1BVS1A4Zko1b19OVUpiQUYxSEpHbHlSdXNrR29oTklPdUxnaFBhemVUbkY0QWxlSFFMV2dybzNjelQtN2d2RDI0ZF9zT25QUlJMa3lZY1JNN3kyaUtESTVzV2RoRw?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "AI can now solve complex mathematical research problems, scientists say",
-   "c": "Science & Tech",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbm1fcUxDTm5Yc0xsRjVZMXVsYWpMUFZnME5YeHVncDBHdFVvUFBHVGRlQ19HNW1UcHZmQ1NHWGtwaFJub1dEZUhEMU96anVwR1czanNlaGxfYVFGTkM0WWlxTEtlclVwY2pDczMyNm1kbTlWUVVNa1RHb0RTS0xjRXZST2RyR1RSZU51T1ZhWUJFc2p3dnJ1d0V0UnRhdHQwWW1EUFNXX1ZxeTRwRXVmZ0JxMDZkMFU0MUVTZG9FcS1sYjFBMFVJ?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "70 women collect BNP forms for reserved seat bypolls",
-   "c": "Bangladesh Affairs",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjZ6YjBYdHhkYVNPMXhiQk1TMEZOZVV4RkZUNHBMSzA0RjdtVzhXZTNVOXBBMWFHREpWeFBrZDVVQXRuUFJsQ1RhcDRINjZUSldlSUdOQ1FzYkxqcmJDUl9Hc0pLVDc0cHRRc2pIYjBPZWNVbUZQUU90QVF2M19OSG9MRU1WcVMwUEhHUURMeVRSSzlTRFhhTDZnMU1NVkl5MTdrR1E3dkJXZ0xLbGVSUXhyb0UzaHV3TmZoWVVtTG1IZnVqTS15OUlGeHfSAcwBQVVfeXFMTko2emIwWHR4ZGFTTzF4YkJNUzBGTmVVeEZGVDRwTEswNEY3bVc4V2UzVTlwQTFhR0RKVnhQa2Q1VUF0blBSbENUYXA0SDY2VEpXZUlHTkNRc2JManJiQ1JfR3NKS1Q3NHB0UXNqSGIwT2VjVW1GUFFPdEFRdjNfTkhvTEVNVnFTMFBIR1FETHlUUks5U0RYYUw2ZzFNTVZJeTE3a0dRN3ZCV2dMS2xlUlF4cm9FM2h1d05maFlVbUxtSGZ1ak0teTlJRnh3?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Bhuvneshwar added to India T20 squad for West Indies decider",
-   "c": "International Affairs",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlU4QlBvYkxjR0pMQlF0LUZZS0d6R0MtaEJzYU9nZ2xkb0QxUDJ5V3UzaDhBbHhXbVZnQUZqT1dWNUFoQjVRX0ItTTlKYlVQX0JxOVNxdVBtSE1pbGVwNmdkbklVbEc0Q2dkTS1tR3hBMHJIdDhPZkpmQzFzUER4LWloaGhva2pnTHNDYkNIa2hzaEpYOXBWbmJiVW9KX3R6MnNnZzNKczZaZ2RvRHl1U2dzLUkzcU1pMWZYVVdBZmEtdmpLRGs40gHHAUFVX3lxTE9WVThCUG9iTGNHSkxCUXQtRllLR3pHQy1oQnNhT2dnbGRvRDFQMnlXdTNoOEFseFdtVmdBRmpPV1Y1QWhCNVFfQi1NOUpiVVBfQnE5U3F1UG1ITWlsZXA2Z2RuSVVsRzRDZ2RNLW1HeEEwckh0OE9mSmZDMXNQRHgtaWhoaG9ramdMc0NiQ0hraHNoSlg5cFZuYmJVb0pfdHoyc2dnM0pzNlpnZG9EeXVTZ3MtSTNxTWkxZlhVV0FmYS12aktEazg?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Yunus receives Hillary Clinton Award in Washington",
-   "c": "International Affairs",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbnF2MWlOZlR3Z2ZlclQyRmRTSmZ3U2lSdkZZS0lNd3BQZlprb0JVQXM2Z0VDblh2R2RNSmxKVWo4QnVqajR2YmtZUThJSG8wWkxJempkbENXcFJINV9FdHI5cVdlYU1xLWtkQzFtcC1TNGJGU2F2Y09xM3lCV1NFVDV4VzBkLXdPNXBlQ3g3VUtxQ1BRM3BiMkRLME1oNndIVFJnUWpYSm8yWkxLZEpKWFhid216TlFwbFRLbWZnMNIBvwFBVV95cUxQbnF2MWlOZlR3Z2ZlclQyRmRTSmZ3U2lSdkZZS0lNd3BQZlprb0JVQXM2Z0VDblh2R2RNSmxKVWo4QnVqajR2YmtZUThJSG8wWkxJempkbENXcFJINV9FdHI5cVdlYU1xLWtkQzFtcC1TNGJGU2F2Y09xM3lCV1NFVDV4VzBkLXdPNXBlQ3g3VUtxQ1BRM3BiMkRLME1oNndIVFJnUWpYSm8yWkxLZEpKWFhid216TlFwbFRLbWZnMA?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Rising food costs meet rampant buffet waste amid high inflation",
-   "c": "Economy",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU3UtbGk2eUJJaFU1RHVZX2NQOS1PX1BhQUktRU1BVkl0blhaTTYyOTNyMm0tMl81bDQwQ0R2OEp2dU9xX29SN09TUFh6VlBSUk1CQUpzOTE0NUpnQ3BHalcyaFlTeVg4YV9mRXhuemJ3VU4xNUUtVTZqQUhuaFZqTThfd2Z0M0pZWkxOdzN6UEF3ZlZVdnZNc1hhNXZ5NXZ0OHFwbk03dHdnYkZjQXlJNER3UDZIYjRHSHhwVDkzVC04VkxYU2RVR05FR1pzei1h0gHQAUFVX3lxTE5TdS1saTZ5QkloVTVEdVlfY1A5LU9fUGFBSS1FTUFWSXRuWFpNNjI5M3IybS0yXzVsNDBDRHY4SnZ1T3Ffb1I3T1NQWHpWUFJSTUJBSnM5MTQ1SmdDcEdqVzJoWVN5WDhhX2ZFeG56YndVTjE1RS1VNmpBSG5oVmpNOF93ZnQzSllaTE53M3pQQXdmVlV2dk1zWGE1dnk1dnQ4cXBuTTd0d2diRmNBeUk0RHdQNkhiNEdIeHBUOTNULThWTFhTZFVHTkVHWnN6LWE?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "যুদ্ধের ব্যবসা",
-   "c": "International Affairs",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXX1ZTZ2ZHa0JRTGI4S1o0OFpmQVhqV3dXV21MOHM1NGxwMTU0NDJmUXp1dzVNbTR0d242cUdMTkFSdlBWblZzOVhFZG1MOUdSNFZCMXprdWZieWRoTG9FQXpMV29SaDNXSEx4WHVEaVk1OWlPVEdVM0lBbw?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "ইতালির রোমে পুলিশ ও শিক্ষার্থীদের সংঘর্ষ",
-   "c": "Education",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53VzJpVmlDY2EzSDB0Rlh0V0VwTVhqdDBTZ1dCZmdhVjUtNE5McmtfUDRRTFpQdy1EOFVHQU9HeDBqWHV4UE5XUEVmQjc5c1BWUHNwaXl3RkVkSDEtYk12d2dDektDUk1RbkZJaWVLdUpTU3lmM2VnWG9UOHc?oc=5",
-   "d": "17 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Hillary Clinton honours Muhammad Yunus for decades of empowering women",
-   "c": "International Affairs",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEJiaWxqQ3ZVM0NHUnNVSDloT0N2VXBfYVEtM01BX1piek51cFZLM2d1NlRSX1hGTGtVb3VtcHEwcVktMmRfNWVadnRsZWJzMXpIMzBHS2VULUxILVNTLVdBWndDZTZtYWIzeVhlV1FyZkktSjJwX2l0b0tMMjJvd3JlQVBHNGVrX1lCS1ktZUItdzdKYXlXV2JuVmQzNndLUERJSGg1YU5nT1ZfTjdv?oc=5",
-   "d": "16 Oct",
-   "sc": 2
-  },
-  {
-   "t": "IMF sees Bangladesh's FY27 growth to fall 38-year low to 3.2%, inflation to rise to 10.9%",
-   "c": "Economy",
-   "s": "TBS News",
-   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEZYRG9hRWRlMXZPOWtDb0NaWFQtVDU0OXphMHJwOXdvNnB2TXdvLVJWTDB2WFJzNXVTeTlKZThaUnRCNXlJTmp0VllQNEVBdUMwcnNKQWZJRkJvYjhiWmxQTC02bGxVQ1gtcjh2RTZfYm1BNzF3YTZ6cDdNc0FVN0wyMUdkbmhzQTJXSzVfalVvT05TdTdzUG5IMTNZY0dTcUFKMXZpZ2t6X1k?oc=5",
-   "d": "16 Oct",
    "sc": 2
   }
  ]
