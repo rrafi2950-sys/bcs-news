@@ -1,54 +1,78 @@
 {
- "updated": "2026-10-29",
- "generated_utc": "2026-10-29T06:03+00:00",
+ "updated": "2026-10-30",
+ "generated_utc": "2026-10-29T18:35+00:00",
  "items": [
   {
-   "t": "BRAC Bank showcases sustainable manufacturing to regional central bankers",
-   "c": "Economy",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS3ZpdTVWVDJsSXFRVjF2RFlmd0JYVWtFeDdKaVppWVNOelFpYUs3eHNyYjRLdnFaZjdRS3Z5cDlZbHRTZDNUR2xPeXhaTnZoTFcyNVBmV1NJOWRVamZSV1N6amZmaFhQR3Fodlk4ME5PcG9SVXZHdnA5Vko2dTBKZkRzdWd4bWd2QTJrQUc1NkpmSkFtSnJlUGotUEtUMG5wdnBEdjVvVnh0dExQejRwdG9nVEt3VXhPTDduMzM0dDVwaUU4S3pKTmZyblBWa2hMUWhMNHIzTnk1WHB6YUdXdjFFRGTSAeQBQVVfeXFMTkt2aXU1VlQybElxUVYxdkRZZndCWFVrRXg3SmlaaVlTTnpRaWFLN3hzcmI0S3ZxWmY3UUt2eXA5WWx0U2QzVEdsT3l4Wk52aExXMjVQZldTSTlkVWpmUldTempmZmhYUEdxaHZZODBOT3BvUlV2R3ZwOVZKNnUwSmZEc3VneG1ndkEya0FHNTZKZkpBbUpyZVBqLVBLVDBucHZwRHY1b1Z4dHRMUHo0cHRvZ1RLd1V4T0w3bjMzNHQ1cGlFOEt6Sk5mcm5QVmtoTFFoTDRyM055NVhwemFHV3YxRURk?oc=5",
+   "t": "Bangladesh strengthens climate and education data to protect children’s learning",
+   "c": "Climate & Environment",
+   "s": "Dhaka Tribune",
+   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEJxMXZVdEpSTXUtOHNYelI4Z0RLSTI5bXR3U183MDk5czAxZnFheHdtTlh3TW1rUFBJN3ZibXlnZzdDc2EySllocjRwUF93SFI2RzFEdDRYWktmNi1CZlZxcFdlTFN1N0tsX1RkZ19VNnQ3M1hWWl9lRHVBQ0xGRzljY0RoaFFTdlU2aW1SUk9uTFFLNnFjcjlFVWPSAaIBQVVfeXFMTkJEUDZyaHltanJXQjkxczN1S05aaXhiUy1jYnBDVU9GQklWY2UxeFlkLVRBZFNWS1FDMHg4WkJXOGZmQ0c4MF9OVnNrSl9EcGw4ZUNuT0huQjBtNkNzSkNxc3NTZmtHUXpKT0lVT0JSTnZTQUNPVFBFeEVBUWdEZGdTN2l0a3VQQ1JvRDlLTU5EUVQ3V0d6Y1otUWsweWRZcjdR?oc=5",
+   "d": "29 Oct",
+   "sc": 5
+  },
+  {
+   "t": "Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns",
+   "c": "UN / Diplomacy",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168687",
    "d": "28 Oct",
    "sc": 5
   },
   {
-   "t": "সচিবালয় স্থানান্তরের সিদ্ধান্তের প্রতিবাদে পুরোনো বাণিজ্য মেলার মাঠে শেকৃবি শিক্ষার্থীদের ভাঙচুর",
-   "c": "Education",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaejIwbzN2RlNJazc2aml1dEtRZzFXZmRPMlFnT0k1UHE2c05TVWpWSTJKblhoZ0tWLTBwbFh1ZW9UbEpBTG9FNU8wVXEyVk5hYUxwVks3T3hRUXA1RWROeXItY2RYM2vSAXRBVV95cUxQYXdpb25NOFJwZWdySGsyN2xGVlRXcDFqd3kzdFVHN2hCN3hCc2J4STRKSXUxQ2x0SmlqUm1Ybl84WW5tMVZGajZrVDdTYUhwcWFfVVJmU2JLWXE5emlrR2dHODRiVk9sR05KWmI5dV9nRXIwUA?oc=5",
-   "d": "28 Oct",
-   "sc": 4
-  },
-  {
-   "t": "National Summit champions young women’s economic empowerment, leadership in Dhaka",
-   "c": "International Affairs",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTM2OHhqT3ByZ2NkTll1QUpacWI0LTVlVURqR1RtTUY0R1BQZjExUEtRQnVRVk5iNGdKNWppV3ZsemRVVEl3NzJ6WTVwQzdaSG0wRjBzNUpHSUEyMDhqcWxsb0NYVWJPMExYeXNQcUxPMzR3MmhQdTBqYTJvTkhxamtydjR5RWVGTTVoTnFIN2VncVZteUR4X3BPS0xsU1p1Sndn0gGoAUFVX3lxTE5Qa3VQSmhzZl9aX3FCdzgtbGhrSEIzYndObElNb2oxakxYdmRmZWt4eWppN0l2a3BacERISHpzWU9FRWRfc19WZGVEUmgxQnJCMU5LRTlCSUlvVmZfeDVyaFpBMWVSSTJoWG9mci11ZUIxNkRPVUI2bXV2bDhOTl92eExJWHh4bWRoX2tiYUx1VHQtYnFQRWZTQlgwMjA2a2g5N1ozbFJ5bg?oc=5",
-   "d": "28 Oct",
-   "sc": 4
-  },
-  {
-   "t": "Cloudflare CEO warns AI is unleashing a flood of security flaws",
-   "c": "Climate & Environment",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTm9iRUJ1ZUloU2MwaHY2dFNoTTlRT2VPTHl5a3d1c0lLNXU0T1hZY3EtLTRaUklTR2tNTjBzUUg5QVVNd3RvUlBWWGpNOGhjakY4XzlpdDVXVnE5a3JuempSc2xFdVFId2NrTTgzRWdQOENDaFhHWHlvbGlwdE5lS1pUZGpBSlFjY1A0ekZmbHUtQlV5RFo5RGZQUjhPRF9aNEp6UHp5X0pFektxakRlUEZhdw?oc=5",
-   "d": "27 Oct",
-   "sc": 4
-  },
-  {
-   "t": "Africa food security under threat due to Iran war, trade officials warn",
+   "t": "Middle East Crisis: How Hard Is Bangladesh’s Economy Being Hit?",
    "c": "Economy",
    "s": "TBS News",
-   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYl9ZUDF5LVJyd0FvRWh2V1BBNDZyYzNXV2lkSFNrdXdtaDBpV0RvTmNSekpnblhGRkp1eW42RlBJSXB4cDNTWDA0OVUycURjUEM4bDlSYXE0OFl2UkZrN2RqTk9zaHp1LVZObEJxcXdQdjc4NTkwVVk0ZHRCSHZVb0lFUExTaHJ5RDZTWGlwRGppNWR2eTlndlU3SlYxVUhzUmwxZjJHcDlGZm5oWUNTQk84UEdWM0U?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXc0SUxteW1kZjNfZVRYaEpyYmRWWnJTelZKNlBXdmt1dzdMNngxTzVETENtb2xEVDhqZUxpTDB6dUxJZ1o0cjR1dUg1Z1dTOWF4Y3pheS1VSGtnLTF6eFBIYzBabnp3NHlKakFBZ3A1UkxBcmppTmtnLWhGR1BtVHdhUVNDTmlISkJWS051YjQ5a3A2bVNfSXJvUHI2aU9Tc0R4M0kxeTlBQmNj?oc=5",
+   "d": "29 Oct",
+   "sc": 4
+  },
+  {
+   "t": "Tarique Rahman Japan Visit 2026 | PM seeks Japanese investment in energy, technology, infrastructure",
+   "c": "Science & Tech",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQemFMMDNDdGVtaXNEVndudnNrNzFLdU10U1J3S0wxNzNxX2VaQmZfQVBrX2tpdENmUkZ3TFJ4U1hUZW4xQjNDbXExQ1VHei0xdlROYmt6WllvR204eWtRTDB5bUJKN0F6UzVRNE5pMmx5X1ozbFFGM3ZmaHQyaW5MTEN0QlU5RmQ4Rm5OeVROc0twN2xMMGpFSzI1dmxJVDBLMElUMnJrQ3JBaWVmWU1ibWh1UC01MXlyMFNSVEZfeXZmQU4tSjdDMA?oc=5",
+   "d": "29 Oct",
+   "sc": 4
+  },
+  {
+   "t": "Govt wants $1b Korean budget support to tackle energy shocks",
+   "c": "Economy",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3pxcnd5UXMxODNMSk1kdEtKY040UGI4UW9YQkZ5NklUZEdydWQtblJkcnQyRTJHQm51MzByTWsxeU9wVlBHM1RVT25QR0p4d1Y5NTZNdlB2TFVBVy1mMWpPbmhUMHoxVlJaNUtENHE4OURkaFRqVF9nVjRXZE1HaU1yV0RmWjF3YzVIMmV0WWhnNU5Pcm56MTRTOWFEVzdPWm1tQTR6Y29mdExvdmVjREdCaC1KQQ?oc=5",
+   "d": "29 Oct",
+   "sc": 4
+  },
+  {
+   "t": "Security Council LIVE: Women and girls face greater dangers in war",
+   "c": "International Affairs",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168684",
    "d": "27 Oct",
    "sc": 4
   },
   {
-   "t": "PM calls for stronger Japanese cooperation in energy, technology, infrastructure",
-   "c": "Science & Tech",
+   "t": "আওয়ামী লীগের ‘ডিএনএ’র মধ্যে কোনো গণতন্ত্রের বীজ ছিল না: স্বরাষ্ট্রমন্ত্রী",
+   "c": "Bangladesh Affairs",
+   "s": "প্রথম আলো",
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MVkZTbGFCMHJCSmZvQzJiRk5ySW1ob3ZDUjNJVFJBeHo3RkY5ek5xZnFna05fc3dRWFFIclhRa1Y3aF9zUkpMaHB3aTMtZ0QwcDIwa3Nia3lWV2lBcnJEQkJxLUnSAXJBVV95cUxOZDJJd21LWTU2RTQ2UTM3bUZjRDAxMS0xcC1lTjh2LTdaTVNzMlJQSm1fS3hSLU9wQlphdGFPY3preHJZNzQtYVpienROWUdkWFNYOUNsc2JjMGRlZkV6Sy13N1Q3c1p2ZGI3c0EtUU5mVVE?oc=5",
+   "d": "29 Oct",
+   "sc": 3
+  },
+  {
+   "t": "Shama outlines Bangladesh’s foreign policy vision at Chatham House",
+   "c": "Bangladesh Affairs",
    "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHFSclIwdVhGaEVUVXU1V3NNVVh3QUEydmlKdVB5U0lramhZZXc4clJaekZOdTVaa0FEMzAzX1ZxbGgyTWc4ZXdYQnpBbFZsNThRWDRjaVZTSWhENElHOHBtbkpoMFNmV04yVmNBQzlYSm9GemxwbUtBZlZsM25IQXpROVdUVUpOR190dC1CVXR3Y0lDQlVlamdiNlZpM0pxM21zUHgyTk1YQm8z0gGyAUFVX3lxTE5aRXpKRHZuZjEwRnFqUmZHQ3RpcXZzMXV6ZUtvdlFMai14Ykh1dDVyalo1YXZsTW1YREJIQ19Ib3BMRHppUDlYTjZoNzFFek83Ujh5cHhDX3RMckpoTGh6dXF4LUNEU3pJSmc2dDh4UC1FYlhEUWM0N0Y4MTdjQ3JpNFFuVHd2Q3MzNFBaeDdPdzFMQXd6RXA3RXJNZ25QN3NMeWVlVWFfa09nbzlzYmRLUUE?oc=5",
-   "d": "27 Oct",
-   "sc": 4
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVcteUNCOEdUdFlrWjFpYUlHV3VVdmxDV25fY2huT1JFanNSTUxJc2xWZFJnQjFZYmg3SnVOUjBQb0U3X243YURmVEo2UXE4ZXJyV1J1aXNZak0wSnFoYzEwelhPdFFWOVpSQzFSbFNXbHdCbE41NmI1MGtNVUdIbHY2NGNLRDJkd0NOcE10TTdIbHRYU1dYOU9kcWdVaHhEemtKOEpuUXBkenA2SHJncmNhQkhIR2xGT2VMQtIBwgFBVV95cUxQZ2NrTzR0TFM2SU4tYTA2MGxXYUxLRnR0b2h6Qk5zN0tTdGU2VUdQaHJMTTM2dlc3SVR3QVJLLVAzSmlVdmljbzFzUW15TW9ReU5nVzJWR3NDdFZpeTRjbWd4dWdnUDNrQmQ1dGROSEpIWklodzg2OU95SmYySTBHeTNFTHN0TDJ1cFBFaVczamJFZU1aaHVkalQ5eHk4Y254ZDRZR3Vvd1V5a1FlUkRTV1o1bURxcTAxU1JsZDdVTFFodw?oc=5",
+   "d": "29 Oct",
+   "sc": 3
+  },
+  {
+   "t": "চীনে শিশুর চেয়ে প্রবীণ বেশি, অর্থনীতিতে কী প্রভাব",
+   "c": "Economy",
+   "s": "প্রথম আলো",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14cF93ZUk3aDluYkdIMDgwbEdiS01hZERVaGEtYzZ0dnpEZlN5X2J0cmZuZkxLOWxUN1dnbzQ3SjBYczRDMGQ5M1pMOWlISEdudGRfMkozM0NCTGxtQ2xPZEtrWnZUSWdaRVRmRzFB0gF7QVVfeXFMT0xLOEdZS0xXT0trd0ZmMTRxb0xKVkFJZEN3SC12TzQtdFZsVXdYalpTSE9HamFiZzFpUFBwS2diYkROSnZWMU9KcEFrTF9wcTMwbGROZDZiT1NXMzFYTXZsZG9WN1dORU5qdWZkVzZxSXA1dEw0TTNxanZN?oc=5",
+   "d": "29 Oct",
+   "sc": 3
   },
   {
    "t": "Bangladeshi climate migrants' journey between loss and hope",
@@ -59,26 +83,26 @@
    "sc": 3
   },
   {
-   "t": "জাতিসংঘে যুক্তরাষ্ট্র-কিউবার উত্তপ্ত বাক্যবিনিময়",
-   "c": "UN / Diplomacy",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DM2hSMmtjdDYzdFdLOHc4YXpSNVhCY1A5WEFxdHozTUJIdjM3RnFpWWktRnlkNkJZelpDUWc1dXMzMzBQYzJmcjI2YkJNb01Id0VIOGFhUmNEeHNzU1FtRS1BcXFFZU9TNGd2UXZtektFQmc?oc=5",
+   "t": "BBS preps to adjust GDP series for new fiscal calendar",
+   "c": "Economy",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFZZWkRTOFBLM1JmRHNlSW4xUFFKS2U2bTRCeXFmTXdQTlpveUpibHZsZXdwbGd6dmlwdFppWjFpMFlMZUh5b2x3VmtVSi1aYnY3dFBKM2Z4T01PNmotZGV2MVg4c1Vacl9VSGRPSWRRXzIwZnViYjFabzM2QmZ4MDJqVzlranpJMTZOVThCOTByTV83YTdkM2djQk1uT1J4T1daUWhoTzRKQTJNQ0g4Y1VCNGpQSHhMSUF1ODgyYUk5eEnSAcMBQVVfeXFMTVRWWVpEUzhQSzNSZkRzZUluMVBRSktlNm00QnlxZk13UE5ab3lKYmx2bGV3cGxnenZpcHRaaVoxaTBZTGVIeW9sd1ZrVUotWmJ2N3RQSjNmeE9NTzZqLWRldjFYOHNVWnJfVUhkT0lkUV8yMGZ1YmIxWm8zNkJmeDAyalc5a2p6STE2TlU4Qjkwck1fN2E3ZDNnY0JNbk9SeE9XWlFoaE80SkEyTUNIOGNVQjRqUEh4TElBdTg4MmFJOXhJ?oc=5",
    "d": "29 Oct",
    "sc": 3
   },
   {
-   "t": "Home minister: No need to amend constitution to prevent enforced disappearances",
-   "c": "Human Rights / Governance",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWlZOUlJoWDdaZlJhRW92Q2UwbE02VmMzTFZaVng1Tnd1UkxSMURDWWZXSzNTaG5tVzhpMS1UVDZ0RGRRNzVSSDlwUC10b2J3enl0Vk03eEY4X1p3bExIZFhUeG5BendWdDdIbGxnY1NWZVNkLWItbUF2a3N5ZHlCeXBibnNPSnM2cXI2TVQ0ZHVOMzBpWWUtRNIBngFBVV95cUxQS3U1MFg4TkdreW5Ud2xnQXd1dS02dktKYmxZRGtUNm45NzlXajZJLUNERDA2OU50aW9FZEcwTGJKWVZ1Wk9PdWNpV3VFcnJmQ2hGd0U4T2RXM2NQdGJHWkpXczdubk9tdkVBaUUwV1ZkQVZqaXBNQlZfNTJNWE0tc0MyM0dXM1J2bGZDTFFacGo4YTVvblpLclByUzBVdw?oc=5",
-   "d": "28 Oct",
+   "t": "No sign Iran has tried to repair nuclear sites hit by US, Israeli strikes IAEA chief",
+   "c": "Science & Tech",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRm1nQVV6WGFMdkJmMVZWNFM3bW9HTmR1LUJOR05DWV8xcExsRDVpZnFDUk92TnJEY1d1U0NoS0VCLXNMTm90TGx0NWl5R04wXzlOaDRQZGFaUVZ1ei1GTnFsVTZWdEJsVGMzcXdtUFNoMlphWHdtNXB1eUpmXzdaS29hM1RTaUk1WUZISmV6TmYxeVdIYUd6REpFRFZCUUlYLXM1VGUyX1VGc2tKR1pWUlUzQ2lJM2hUTzl2MGE4eUZJUzJwcW1XOHY5b0NDcmx5SmVqeVlsUUtNdENQUlpkNWFVWV_SAeQBQVVfeXFMT0ZtZ0FVelhhTHZCZjFWVjRTN21vR05kdS1CTkdOQ1lfMXBMbEQ1aWZxQ1JPdk5yRGNXdVNDaEtFQi1zTE5vdExsdDVpeUdOMF85Tmg0UGRhWlFWdXotRk5xbFU2VnRCbFRjM3F3bVBTaDJaYVh3bTVwdXlKZl83WktvYTNUU2lJNVlGSEplek5mMXlXSGFHekRKRURWQlFJWC1zNVRlMl9VRnNrSkdaVlJVM0NpSTNoVE85djBhOHlGSVMycHFtVzh2OW9DQ3JseUplanlZbFFLTXRDUFJaZDVhVVlf?oc=5",
+   "d": "29 Oct",
    "sc": 3
   },
   {
-   "t": "Embankment at risk of collapse in Satkhira’s Ashashuni amid cyclone warning",
-   "c": "Climate & Environment",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUdSNmlqOFRfSW1QQnpRY1dUTnRkUTd4VnhPUktJUXAtZ0xGVWtfVXotdGpOYTEyZU84UVdkLXJqczBPLXJyRkNDRUlQTWQ4OGFiNUdnUmlVd1oxNjdVbmM2c0d5cWNYZFllN2c0T1M2YlZPZWdnMktWdWVoU2FnNHcwYk9jRE41cmNUcl9PdXJOMmQzN05yTmFWTmJfc0Z0bW5mOEdtZ2JhZ9IBrwFBVV95cUxPZTdmMTA0ZFJfb1lXWnZDT0JqXzg3b3VOOWJ2ajlmcTFacGVGZUMzdWZmN1d2NmlUOFdCREFsU3FheGdia3NxUE5WWXQ1Nkp0YV8xRkN5bzI3MGVyR2stcWlScnkzMFhmZS1pQTc0aFcwN0FKUzBacGVPczU3VEsxRWwya19MekpUSk1hcmRxYlNBQTlmNVlBbXRrZVFnbjh4V0FUaGxuRlpNQVh3WFBR?oc=5",
+   "t": "UN human rights chief urges better protection of civilians in conflicts",
+   "c": "UN / Diplomacy",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168695",
    "d": "28 Oct",
    "sc": 3
   },
@@ -91,18 +115,10 @@
    "sc": 3
   },
   {
-   "t": "Experts warn of effects of slick as oil seen on UAE beach",
-   "c": "International Affairs",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTJfZkgyMjZPNHoyb3hha3ZpSjNPUDgxZU5yZGFtbVJkaFNJZWZtb1ZVX2JWVms0YzFaeWp2Vk54X2pZOTNWMk5QaFUyUFZIaC1qSTA0enFCXzBjd2dXXzRzdW8xOUZDdmFBeWhUWjAtMG1KYmFHNVZjMmpCOTdEdVUwS3VrVEN0azdVZEtOcmVhdGxZaE1UaGNEOHJNMVRhc2VzR0FkcUp0ejA4ZjY3cnBhUHJtZ9IBwgFBVV95cUxPYmVsSWFyYW0wdHNEdm5YSlgxdmtSNjkwbnhuYm5ZR2RuUVFfcXZReG9aN2ZfMjJWODBmNVN1QVdmLW1tdGlXR25uTVdicVFrd2hyNEpPWHhINTVsVmR5QlF6THlsUkJjcUFKeTVIY3pSVTl6b0NCUnMxaHpXVE4ySkNKbFdObnY3QXBNS0puN0Q5d3pIZTBHbDZQUkV2NERQZGtiTmV6czdnUDg1aVphbmtRckVILUtaM0Uyb3VTWGpZZw?oc=5",
-   "d": "28 Oct",
-   "sc": 3
-  },
-  {
-   "t": "President urges worldclass healthcare to curb medical tourism",
-   "c": "Bangladesh Affairs",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbVIzSlVGdXJITnU5N0d2ejN5N3BBdW1aMlZjMkIyTnZhRlNpMkZTcUpWanYtYmxlck53clRhSXhKV2dqQkQyX0pqVUdVblFOVGpzT2ZLMktUV1NBenNFdk1jRGEtTTkzZ2VuYUh2eGhjTDhoRlZkVHVYTC1ya0M4cmxCNjNZLUdPYnFaV3Q4VEJBZmVsSWRsUTZkV1oyVUxxNU9SR3hORGJCNUQ5VnV5Z0xKZHpYNVlMN2RCWjE1dklsbHQ4X0MxbGRHMWE2bzdpZ2JMVnJ3OU_SAdgBQVVfeXFMTW1SM0pVRnVySE51OTdHdnozeTdwQXVtWjJWYzJCMk52YUZTaTJGU3FKVmp2LWJsZXJOd3JUYUl4SldnakJEMl9KalVHVW5RTlRqc09mSzJLVFdTQXpzRXZNY0RhLU05M2dlbmFIdnhoY0w4aEZWZFR1WEwtcmtDOHJsQjYzWS1HT2JxWld0OFRCQWZlbElkbFE2ZFdaMlVMcTVPUkd4TkRiQjVEOVZ1eWdMSmR6WDVZTDdkQloxNXZJbGx0OF9DMWxkRzFhNm83aWdiTFZydzlP?oc=5",
+   "t": "Why labour unions are rising against the IMF and World Bank",
+   "c": "Economy",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFlWQzRicnpYbFJzMEZVREYwcVpoNDBtT3k2Q05DaXRiX3ktbmU1X1dhcWxzaER0OEhKenBLMEJXWlhmVExqUjFkUFd4UDdFd1dOY1JYbU9rbXJxaUJVSFJ3SUVjVC1VMlFscDlMcndJN3NPb2ZyZHNBUl9rSWhHWDlFRU15ZGZ6My1XdFNVSVgwVjdDVW1zN3llckhPS25yMUlCODh6dWNhenVfYzlMVjR2OEd1dw?oc=5",
    "d": "28 Oct",
    "sc": 3
   },
@@ -110,47 +126,71 @@
    "t": "BANK ASIA HOSTS BREAST CANCER AWARENESS SESSION",
    "c": "Economy",
    "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeThNQi15U2REMGxXb21Fd3I2OFRZUG9sbU5wZ0t1amdWTEpvclVwYzV1ZU1QeTlhbzZwc2NLaDQ4OWx1ZTVTUVFZNVNaeUhYTHl6ZC1oc2syOUw3WlVJREVONUF1eXJaM2tROTlsY1JlcHk1QS10eWptUE5RZlRJYmNnQUZTbDZUcmVVTnp6WFozN3hiNnpMelVsN3RJaUtRTVl3NTBQeHhnR0tsczBIUWlmMkVBUkVUZzhfRkd1cUhqd9IBwgFBVV95cUxNeThNQi15U2REMGxXb21Fd3I2OFRZUG9sbU5wZ0t1amdWTEpvclVwYzV1ZU1QeTlhbzZwc2NLaDQ4OWx1ZTVTUVFZNVNaeUhYTHl6ZC1oc2syOUw3WlVJREVONUF1eXJaM2tROTlsY1JlcHk1QS10eWptUE5RZlRJYmNnQUZTbDZUcmVVTnp6WFozN3hiNnpMelVsN3RJaUtRTVl3NTBQeHhnR0tsczBIUWlmMkVBUkVUZzhfRkd1cUhqdw?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYk91T0NjYi01S2x5MUdmMDQ3TGFlSXRGbFJRQlB4Q2dnNzlCV0R2c04tZGFKWUM3QjE3M0wxRXFNal9HMGtFYjRNaFZzQjJaclpOSmZVZVlxcVM5SnFubVFmWl9vMUpRcVlGSzFvVm9GOHFjeGtYRFlKR2ZRazVKS1FicF8xQzlTTnNQWDZHY3d1N09qeDJtQmFhay0tdVlIdkQyWHFaWEcwbzJTalVzczRsdy1FUdIBwgFBVV95cUxNeThNQi15U2REMGxXb21Fd3I2OFRZUG9sbU5wZ0t1amdWTEpvclVwYzV1ZU1QeTlhbzZwc2NLaDQ4OWx1ZTVTUVFZNVNaeUhYTHl6ZC1oc2syOUw3WlVJREVONUF1eXJaM2tROTlsY1JlcHk1QS10eWptUE5RZlRJYmNnQUZTbDZUcmVVTnp6WFozN3hiNnpMelVsN3RJaUtRTVl3NTBQeHhnR0tsczBIUWlmMkVBUkVUZzhfRkd1cUhqdw?oc=5",
    "d": "28 Oct",
    "sc": 3
   },
   {
-   "t": "Natore MP's son taken into DB custody over JCD leader's death",
-   "c": "International Affairs",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN0dpXzlHeWROQzNkWUtZdF9YY3dIejU3NUpkT01UOHNZRUtOa09TWlo1cnppSnNhdGpPN0ZWR2RVRFFpVXB1S0ZrakMtcHhCRXB4TVJZWVkzYjZxeTQ2bkpJdFlDTlJzc1dzU1c5OFlKREtuTm5VMmQ4TTFGT1YxS2JnTHFqZURZSFA1NWpnSEdSYUhyejhfdlNMMjBqMzdGbEN2MklXMk9rZ1dHdmJ6NVpnTmtLRDVaa0VxT0RZVkYxb3FwUmwyaHFNMEhIdGVGNnZTb9IB1AFBVV95cUxPN0dpXzlHeWROQzNkWUtZdF9YY3dIejU3NUpkT01UOHNZRUtOa09TWlo1cnppSnNhdGpPN0ZWR2RVRFFpVXB1S0ZrakMtcHhCRXB4TVJZWVkzYjZxeTQ2bkpJdFlDTlJzc1dzU1c5OFlKREtuTm5VMmQ4TTFGT1YxS2JnTHFqZURZSFA1NWpnSEdSYUhyejhfdlNMMjBqMzdGbEN2MklXMk9rZ1dHdmJ6NVpnTmtLRDVaa0VxT0RZVkYxb3FwUmwyaHFNMEhIdGVGNnZTbw?oc=5",
-   "d": "28 Oct",
-   "sc": 3
-  },
-  {
-   "t": "ঠাকুরগাঁও-১ উপনির্বাচনে জয়ের ব্যাপারে শতভাগ আশাবাদী বিএনপি প্রার্থী",
-   "c": "Human Rights / Governance",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLTjNvSGpEMjFScUVnQVBVUU0xZlg3LXJmWGZCRzNFYWVRQkFaWXhNZ3lvbzZvQkRpUzhZZ1B2S1FfYzZwODNJQ0Z6QXJ6WHpmS0VvMXd4eTJsamhOVmNYQ1FxZ3ZkZnBvWGJaRl9qaw?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Bangladesh win compound women’s team gold at Asia Cup Archery",
-   "c": "Bangladesh Affairs",
-   "s": "Dhaka Tribune",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGV3aTZvVVB0QldYMzRNS1A4OExnLW5DSkRTd3hyb19hS2ZXbUJJNDJRSldYZGJfMXcxSVNwWGZOU2dtem9KMG1aRnNrZEJlOFhWODRob3h5QV9xby15SDI1MjdCYkNyeVAyeDQtQXFfdFo5dXJFUnc5RjRhdXFka21hZWd5cUstVloyUldRd3JJNkhMenVMdE5xcVZjMzFuUzY3TzVEakEtUEEzWEZuYTJB0gG3AUFVX3lxTFBnTFlDb0hCbm1wNVhub1pBeklqYnp0UkRfbTJPUjctSWoyYVEzLXFhOHpIR2JRUldRLUFhZDJneGw3dGhfX1hqcjBfcEkxOHQ0WlBXN0FlRGpORzBSUmdmZk5WSE1mRzhoQzBRaEhHSGhEbnAtdVp2NlA5eGR2OGZFOFNvZFNsZWFuQUFYdTFfWjEydGFINXdHT0xZUkx2YVVuMWd3QXVuUmtZY1NSZEVUSkRaQmxjcw?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "শিক্ষার্থী ও নিয়োগদাতাদের সেতুবন্ধে প্রেসিডেন্সি ইউনিভার্সিটির জব ফেয়ার",
-   "c": "Education",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TS01sZHZTbU1hWDVqbW1MOGdPU2EwR21KQ1NLRlZxaWJJMC0yY0xPazNFdTgtWU1pOEpWbWVFWDgtemZwRmxhODFDdFdfaVBadm5sdU1CcFZMLUZWRGQxNVA3TXJSUjZZdzJPNW0yNmg?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "UK pledges $800 million to defend against AI threats",
+   "t": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
    "c": "Science & Tech",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+   "d": "27 Oct",
+   "sc": 3
+  },
+  {
+   "t": "The goddess and the girl: Does women’s worth require divine justification?",
+   "c": "Bangladesh Affairs",
    "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1dGOHRUeUphMmNNQU1UM3A3dEN3dTFzdmtQbXpnYW5pbnVzOHczNDFHVGp3TVB3eGdSVnFkS1F4a0xJRHVFR0tVWUhkUXZpV1YxSW5qRm5oa3p1VHRNRGVURERVMGFWYWRLU3NYTzJJWmUxdkx5WXVRZXdwMVpXMmlVYURqNVlxOXh2anpCWTZlR05VNXlDb0EtUjhhOV8ya0hvblY5LUNMZw?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSkJUd0JuTHI3aVdjSDcwc205V1NGNGp6WEJzTmE3dVlwNUFjQzhiUTF2N2RXbHUxTDVxTXd2TUpld1B4WF8ySmN1dUIxeEF3elIwOVJZUG9Hd2doLXRYQW0xc1RDd296WThCMk01U1ZZUDNnNWxta2ZkYTg0X3A5S2pZbkp2LVUwOW5wZjE4WFgtWXF2UVJwNHk2ZGd5UmpjZi1wb3JibVdCVzdaSURtYmxOVkFDOXlWT1RDRVZDV01PbVhtLVdKS2tn?oc=5",
+   "d": "30 Oct",
+   "sc": 2
+  },
+  {
+   "t": "Thakurgaon-1 by-election: Voting underway at 185 centers, how is voter turnout?",
+   "c": "Human Rights / Governance",
+   "s": "TBS News",
+   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWZjVUtUYnotSHo1TEVwZDhVRUdDTlBpb241YXFpN0pXU3V0cFl6S21ra1R2a0FubFNWVXpZOU5XcHlUOXNFQWpPNERrUng5WDQ4eC1TZVkwdGdyTWk0VVdtSTh5Q01vdHpzZ3ZxQloyZWctWDQxemFlSEpPd3RiZjllZUszMzBMNDB2Z2NGV1ZaX0xsRnBLZ1Z6cGU3SzBVUmhnUEVWT2taeGtXN3ZrbWdWY3Rhdzg?oc=5",
+   "d": "30 Oct",
+   "sc": 2
+  },
+  {
+   "t": "In search of her face: 70 years of women in Bengal’s art",
+   "c": "Bangladesh Affairs",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkxCLU9ZQjFsSWw0b2pjZWotMGFLaWtaOEZ5ZE0tb0VNNEZWc1p2OVVRaFJJM2kzYlZVaW5iaG43WndxRldZVHI5dWhKMnZiemtvNDZqRUdRbFFOeWJuTGE0R29TYmNaYWJNZmVVYWdUVnZpY0tCN2xlOXJPUVZMcFlGWEVPTnQ3TkVmblN0SFpUVFlaWE5fNG94aGQ5ZEVYR1lTQw?oc=5",
+   "d": "30 Oct",
+   "sc": 2
+  },
+  {
+   "t": "'Historic victory': World leaders celebrate Lula's re-election",
+   "c": "Human Rights / Governance",
+   "s": "The Daily Star",
+   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRThoMFk4WlFMX2VHTGk1TWRfVk0wcXNQZUR0cXNuNnZUOW1vTDZzeWU4czBXODMyZmdPZFRhZU5EenVFb3hlR3hScy1BRF8yNzVHWTVtS21LUExIOFdId0l6ZEdBZTBwTVZTSGdqYVM5YkQ3N2l6WjJFY3cyd3VwWFhwLTllNWdjdjZPbVlvTTY0ZmtjbThVWWdfUXBRdVBBQ2N6MU1PV2Z0eVFfM3ZJRA?oc=5",
+   "d": "30 Oct",
+   "sc": 2
+  },
+  {
+   "t": "EU chief lays out vision for new Canada partnership at Montreal summit",
+   "c": "International Affairs",
+   "s": "BBC World",
+   "u": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+   "d": "29 Oct",
+   "sc": 2
+  },
+  {
+   "t": "Allegations of foreign interference in Israel's elections; who does Netanyahu suspect?",
+   "c": "Human Rights / Governance",
+   "s": "TBS News",
+   "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTY3bE80NFZtdnJrRUp4d1VRdk9xR1JFby1yTmR2ZDBIS1hqTFdQVnJiMHV6M1djdXdwNFFySDkxNlFXUXFPTkl2VkRzZHhpaVJYTDhlcnkzMEpqLVRNdEhHTjc2Qk1SSHdqNWFQRFFFd0h5b2ZQTzF6OTBKbm4yNEF6LXgzdmtoYi1vWS0td2RVbGFGWmRmb0V4LUVNT3V5Q0k3SHhzTm1KTWFpYkJtUVBvV3kwZzlHTWJNTExQa3U?oc=5",
+   "d": "29 Oct",
+   "sc": 2
+  },
+  {
+   "t": "‘৫ আগস্টের পর দেখেছি ওই দলটি মুক্তিযুদ্ধে কী করেছিল!’",
+   "c": "International Affairs",
+   "s": "কালের কণ্ঠ",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxUkJ4OHhETEJvbzFDdkhxdVNaNWkzRWVIVGRvd21xSjZVSGRWMThMMTE1RERudlpNbmRGT2puTGxWTmhMUGZnN0xsTzFYUlgxMXFhcElWVXRvakI2SnZKMDRFMEsyT2dYOHNqUzdKcHM?oc=5",
    "d": "29 Oct",
    "sc": 2
   },
@@ -158,23 +198,23 @@
    "t": "২ লাখ ৪৫ হাজার নারী-পুরুষকে প্রশিক্ষণ দেবে কেয়ার বাংলাদেশ",
    "c": "Bangladesh Affairs",
    "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RNzF3MkJkYllwaUVGclNsa0FWcldxNUgwY3lkd2lRaHNVWWN4UVJHaHp6OFV3dERaMTExOGZyck1MTzctb2ZwQW5RUDg3RWRlbUVuSVZJbFdvbm9TRmlOblNPSDhfWk16Rkg2X2dIV0M?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMdmVFRW5CWEtyR1BKRDJzOHFUYTBkSW0tQUlWZGpHNjdJVmRzMjRSYXhDNXBCZjVqMVJlU0ZyM1VwSkRobzM5Tkt3elFLSTl4NGFCRlp2QVFLcnQwZ2wtM2p6WEhRU1NRc3NmWTJicVk?oc=5",
    "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "সকাল হলেই উপনির্বাচন, ঠাকুরগাঁও-১ আসনের সর্বশেষ খবর",
-   "c": "Human Rights / Governance",
+   "t": "ঠাকুরগাঁও-১ আসনে উপনির্বাচনে উৎসবমুখর পরিবেশে চলছে ভোটগ্রহণ",
+   "c": "Climate & Environment",
    "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPZWNFOHNWSVp5T1dwN25QTjlhS3V2Y2NEVllwVXlZbHZoOUJxaHNBNlFCZEZPRTl1WHNMVWJyeXJ2T0RnNFJwTUZfY2lVM1RiaTN6Wk14ZjJnbVp2RWJpSHdqa21iUEJwR3JGRzJ6Yw?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKdU1CUFVBTDQ2OUdIS083NlRmcVFCbXJ0ZG1MSGNHOHBJbjEyYTlwT1dlaXFaT0ZHNmhKLW14MkR1VmUzLVhjVllITmU2dzRMU0tmLVdXV2xqd0RoNGpPRXBRMVRFSEtoZEctV3hVUUs?oc=5",
    "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "Israel's election deadlock is a sign of the country's deep divisions",
+   "t": "BNP’s Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
    "c": "Human Rights / Governance",
-   "s": "BBC World",
-   "u": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+   "s": "Financial Express",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXF4NVpjNUVITklFOWxEM2dtMno0eTlDMGtDdjlGbkoxTG1GTTZzWFJMSElsaVBEVG0xbFpoN05JZmN3elpLSWVuekthZTI5NV9nWkxSS09hY19PRk1FMVdleFU3YnFuemNyRmlCM0xSQXQ3UU10cDdqZU1fNnhrYlFsdUhHa055bTNlS0dXOEY1MkliTjNBUVpsZm9mcFI1N25zY3N3?oc=5",
    "d": "29 Oct",
    "sc": 2
   },
@@ -187,91 +227,75 @@
    "sc": 2
   },
   {
-   "t": "দাঁড়িয়ে গেলেন পঞ্চাশোর্ধ্ব নারী, অথচ বসে থাকলেন তরুণ ও মধ্যবয়সী পুরুষেরা",
+   "t": "Swapan: Misinterpretation of religion, patriarchal mindsets hinder women's empowerment",
    "c": "Bangladesh Affairs",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9laUo0Uloyb3Q0dlRSM1FZQVFQRXdSR3hrb2R3eXVGeHFIdWJHUzhMR2JuZUtSNWxjTWNTbzFXR2VJNXRUbmNyVFBkUTNjelJQOUtvTXZFeVJMNHdx0gFqQVVfeXFMUHE5Zllya1llckd5VWZFbUg5dk9YVl9sTmplbnVscEVrZlYxSGRMMkNNeXZTMHVGNGdxX1NVYXU4Qk04Q2FlQXlzSkNWc0QtVVlBUjRJVUV2MUE5RmFJSUpVMmtubnhpTldOUQ?oc=5",
+   "s": "Dhaka Tribune",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazcwbndZVXhJQWROVFduTWpSNnFMMG5DRUNrNDg5dGRKZ1lrQWNaZkl2QVZVdU53UHZVY21FcnNmLUtkVjZUa2RRSnM5aHJoTFV6eHhGdV92a2hZZko1cFBaMVdvMU4wVGFpZHk4RWE5dE9jYkpkMHJEV3pKbWZrUWF0MVNkLWRKcUZSdGxWaEF2YUJpRlBjTFJDa9IBoAFBVV95cUxPMC1sYmVTZHpGZzVhX0JDN1g5N283emFWajB0ZGhrajJCeEh4cU8zUXJ0bUwwQ2E4eG5WUkhYWE00TGxQMVFpalJzc3RtdVhDZzZkcndzcXR4c09VQkZJR0RNT1pxVHlrZW1jRUkxaHh0SWcxNTZST0xEdDJsN0lacDJBSFNEcmI3VThVUkdBZk0zdFNmbDRFUnVyLVRRUTct?oc=5",
    "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "Porwar demands revival of 2006 Paltan killings case against Sheikh Hasina",
+   "t": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+   "c": "Human Rights / Governance",
+   "s": "BBC World",
+   "u": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+   "d": "29 Oct",
+   "sc": 2
+  },
+  {
+   "t": "ঠাকুরগাঁও-১ উপনির্বাচন : ১১৮১৪৭ ভোটে এগিয়ে ধানের শীষ",
+   "c": "Human Rights / Governance",
+   "s": "কালের কণ্ঠ",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwUjdnRXJJbEdZdjBZUjVZNm80emxuaDdQRWNvX0NhVFRMa1lyZE4yUklZaFBhLWk4NjZIYXFCVkxKdG1ISFdrbUdKbHR4b1NwRjZYcFBGZDN1WDlkRXRLcE84NHlYVmJFZzg3djFKSUV2cXlm?oc=5",
+   "d": "29 Oct",
+   "sc": 2
+  },
+  {
+   "t": "Philippine police obtain warrant to search Thomas Markle's devices",
    "c": "International Affairs",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQajBab1ZBXzR1V3hNUG5URlJSSDlCejhoSDZJdFZRamNjSjF0dnljaTdoTWxKQ3gzOU9lUW02WkdIWVRHLUhCRkYtdVlLdEdrandFd1B3eThVLTVjVU02NVNuR3ZxZDNHLWV5TXQ1S3I2UFdmdUg3RWdZZk4wRHk3dlJubVlwOU9wdTc1M0t4MFplMWZQWkVtUGVsMlpkSlFxVGRyWmJZcUV5MTI2MUk0d1RkMTVNLThJcTQxQTdkU1Y0S2lj?oc=5",
+   "s": "BBC World",
+   "u": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
    "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "MTB signs two refinance agreements to support sustainable industrial and digital development",
-   "c": "Bangladesh Affairs",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVTVlZmliblBLZ1hBMXA4TDNEeHBpSXZxSlBhM1Q5WHItcy1QVjV3ZWRFMUhRbDZidlc3Q2dkdS1vZVZZQlBrMDU2bUNBa1hUbkVXR1VKMVQ0VDNqT0xHNm1Vb3Z4MnowSmJzYkpScU5vZUR5bWNfaFJka0hJZE50SlhKcUxfbmNfNEpTbGRWNGNuUjZaZTMtdWgzbDRHMFJ2RVJ3TnpyZEZpZEZ1dzhlYnVlTWZEYjR4WVpmaUliaGNvcDVtWlZ1NTltRFN0b1YwLVhLcTRXeU9fSFFkYUxpeWFuRm5uRFZRY0Q3M2k4Ulk0TXZFQVBSOEd3Sjd2UdIB_gFBVV95cUxPVTVlZmliblBLZ1hBMXA4TDNEeHBpSXZxSlBhM1Q5WHItcy1QVjV3ZWRFMUhRbDZidlc3Q2dkdS1vZVZZQlBrMDU2bUNBa1hUbkVXR1VKMVQ0VDNqT0xHNm1Vb3Z4MnowSmJzYkpScU5vZUR5bWNfaFJka0hJZE50SlhKcUxfbmNfNEpTbGRWNGNuUjZaZTMtdWgzbDRHMFJ2RVJ3TnpyZEZpZEZ1dzhlYnVlTWZEYjR4WVpmaUliaGNvcDVtWlZ1NTltRFN0b1YwLVhLcTRXeU9fSFFkYUxpeWFuRm5uRFZRY0Q3M2k4Ulk0TXZFQVBSOEd3Sjd2UQ?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "NBR asks BTTC to assess impact of tariff cuts",
-   "c": "Economy",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlpNdmtyY1hnS1FMdVBtaWJaT21EUmJ3U09yTGFLaTNjQkF1cC1LbEVqTXktWlJvUDFtS1lTMWYwX0gtNDM2Tjh3SkFOU2dMdWsyZVhESzhzR0V0T0JFcTFRU0FadkpQNUxzM3VEajBuZllhRWE5ejFnUVF4T3VpOVBYd0lVMTNZTHl6dUE2dEZJOEpJMWFmblk3aVhPVlM2WmxINkttVzRjVmo3WHM5REFIRFctR3p20gG4AUFVX3lxTE1iWk12a3JjWGdLUUx1UG1pYlpPbURSYndTT3JMYUtpM2NCQXVwLUtsRWpNeS1aUm9QMW1LWVMxZjBfSC00MzZOOHdKQU5TZ0x1azJlWERLOHNHRXRPQkVxMVFTQVp2SlA1THMzdURqMG5mWWFFYTl6MWdRUXhPdWk5UFh3SVUxM1lMeXp1QTZ0Rkk4SkkxYWZuWTdpWE9WUzZabEg2S21XNGNWajdYczlEQUhEVy1HenY?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "BICM HOLDS INVESTMENT EDUCATION PROGRAMME AT BAUST",
-   "c": "Education",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGM0YjJpNmdLbVRFTjF4M2wzcmNIN3VsYVo5dFpncjM0OWdUZzcwT01yTDFreGtaYkJDS2pmYnZBOXdvMER1YXBYVzJKSjJ6MGxnRFlpeXJVZ3JhMWhqei1FV0hWbGdrRlAyRDFyZUtoaTlBWmwySS00amNIQnFfLUt5RUpaeXdzVWluaFQzSjBCT3dtR09DYXlTcjZXdmZIZHlUamkwaGpfTFJ3aXctTHlFSldQWHhRWmk1dDJLb3VsUdIBwgFBVV95cUxQZGM0YjJpNmdLbVRFTjF4M2wzcmNIN3VsYVo5dFpncjM0OWdUZzcwT01yTDFreGtaYkJDS2pmYnZBOXdvMER1YXBYVzJKSjJ6MGxnRFlpeXJVZ3JhMWhqei1FV0hWbGdrRlAyRDFyZUtoaTlBWmwySS00amNIQnFfLUt5RUpaeXdzVWluaFQzSjBCT3dtR09DYXlTcjZXdmZIZHlUamkwaGpfTFJ3aXctTHlFSldQWHhRWmk1dDJLb3VsUQ?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Court orders to seize tax documents of 8 CRI members including Joy , Putul",
-   "c": "Economy",
-   "s": "Financial Express",
-   "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLXdlMVcyVzA0NWd6VnBYRDdEM25FTnhERUJEMEtOclFrVzFPZklkT2hvWUZfTjg5Y0JtS2hBVzFsazJHX0toaGVGT3lBVEIwd0ZiWXVqTWNrLWtHcGdrNXd4Z2lGT3laVExCdmN5cjRDTngzQktMMkNNQWw4aHJHaXpOTkd2UFp2MUc3d29iV05Id0Z5Rzg2cDdpaE51b1Z0X19nT1hJd3lIaGhkM2p4Z3QyWWFrcXNaZ1RPZGpXeXNLbVhOdml5NUlIZG1MeW1ULTlQQnprYnFERlo0ZXN4ak9leHNkd9IB5gFBVV95cUxNLXdlMVcyVzA0NWd6VnBYRDdEM25FTnhERUJEMEtOclFrVzFPZklkT2hvWUZfTjg5Y0JtS2hBVzFsazJHX0toaGVGT3lBVEIwd0ZiWXVqTWNrLWtHcGdrNXd4Z2lGT3laVExCdmN5cjRDTngzQktMMkNNQWw4aHJHaXpOTkd2UFp2MUc3d29iV05Id0Z5Rzg2cDdpaE51b1Z0X19nT1hJd3lIaGhkM2p4Z3QyWWFrcXNaZ1RPZGpXeXNLbVhOdml5NUlIZG1MeW1ULTlQQnprYnFERlo0ZXN4ak9leHNkdw?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "রমজানে নিত্যপণ্যের সংকট হবে না : বাণিজ্যমন্ত্রী",
-   "c": "Economy",
-   "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1lHMFo4TExlSHB2cDNHdUItQTJQdXZMdVVLY2l3dDI2bUh5Q040U1ZiMmZYbHYwV3NaMW9IZlRTSTlfM0NXOGRJZDdPSkZWTGlvakJEdjdNYkRqZWRJVFNJcDl1U1ZMQ0laczlXcnc2V3BMaW82T0FPUG50a0hzMHJUclM?oc=5",
-   "d": "29 Oct",
-   "sc": 2
-  },
-  {
-   "t": "সচিবালয় স্থানান্তরের প্রতিবাদে শিক্ষার্থীদের বিক্ষোভ",
+   "t": "সরকারি শিক্ষাপ্রতিষ্ঠানের জন্য মাউশির নতুন নির্দেশনা",
    "c": "Education",
    "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TdTNNeFFKT0hJcTVhbFEzZ3dESmtYRlpyNE5fUHZOa0NhaUljZVk2UDhYdjN0dFVYM29PS1RqTnU3QWVYQU5WUXRlMjNFMXMzTEFiQmk2Z0QtWE1EbHRnT2JpTjN5S0p2UXNQcGRsMmlhRkk?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PWGo5ZnM2NDBFcmZOaVB6cmRjdWs5eVVSaEx6Q1VaSjBFVzZ6SHhLVVlVTkRXQmNKeUtiQmZHZTBUeFQyaEZMOVZSTVFYa0tUQ1plWndzV21ETll3Zng3c1BuOS1obEl1dUI3YWQwYXZXeDREMnc?oc=5",
    "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "গাজায় এতিম ৭১ হাজার শিশু ৬৪ হাজার নারী বিধবা",
+   "t": "বরগুনার সাবেক সংসদ সদস্য শম্ভু ও সূচনা ফাউন্ডেশনের আয়কর নথি জব্দ",
    "c": "Bangladesh Affairs",
    "s": "কালের কণ্ঠ",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwdzdhY1l5eE15NnRCc1hPelgzTG53YUZOM0Z3VE80WE5HMkc2UmlGWFZOT1libzRxSUdJVThDMnJBTWZYQWRrVkFGTVBCSl83eVNlMHlLS0syUXVOZUJWeGpnTVZkeXpOR080djhrRlBZdy1Pd0UzbndCM2I?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aaklqYVd3R0t6NHk4aWdjMDU3MXNRZnpZN05iZHRyVHB2ajlYeTRBWUlDVnVSR2JmZlhqZ0pVMzVDRm1MQm9kRGQ2TlBWd0J1UTBVa0s5X0Q2S3dDeWlTSF9OeTRfdXRiNWtF?oc=5",
    "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "How will China's aging population affect its economy?",
-   "c": "Economy",
-   "s": "TBS News",
-   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFVDLVZ4YUpJVWFOMF9UTzhPR2dKNTB1SklTM1FhOWxucnJLT25qUDVyN09FUWxzVEJMdEFFelZmUHpKWkZwSEhSclV4c1drX2pzQW5hR212UU9HWmdrdEZxSXl0S1ZQUzlYYVZxM05BZGZISlB6NExxNXlEU2ZzM0ctR1d0eWVFLUJiRzRtU3FITERpMWZCOUJFeFN1QQ?oc=5",
-   "d": "28 Oct",
+   "t": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+   "c": "Science & Tech",
+   "s": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+   "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "UGC considers dedicated TV channel for higher education",
+   "t": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+   "c": "International Affairs",
+   "s": "BBC World",
+   "u": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+   "d": "29 Oct",
+   "sc": 2
+  },
+  {
+   "t": "ইনানী সৈকতে গোসলে নেমেছিল ১৬ শিক্ষার্থী, ভেসে গিয়ে প্রাণ গেল একজনের",
    "c": "Education",
-   "s": "The Daily Star",
-   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDl0dDFhMjVwQkJzYlBvSjdPQ25BUkYyM1NnTzJHX0xWeWtMQzR3VDFtUXRMckFycU9QdFhmUkVNOUJlT010cnhkSDlCeGljNnRWODRjTHE5RUxqUUFnZUlBbm5Zd1AyU2dXV2ViTWNYNi1sSFZFN0MzU1NVblVLNVlkaktxcVhETWl5aTlXV1ExSGkzUG5wRURrdkdwYjcwWFFjcjlVZk1EbnlfLWVCODg0TlhRSkJUX3NN?oc=5",
-   "d": "28 Oct",
+   "s": "প্রথম আলো",
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNzk2SG5lMkFseGJKUUJIYVdmeVJud3VFWkVCa2NPMXRReWdNUjlvdk9SdnhWRnUxeGJMeVpDSGRzTnQ4QWNsN0ZzMWhBWEZHUDdqU2x6c2w0eE1Db1N3dmdjaEFydnpO0gF2QVVfeXFMUGIzUHF0ZFJxbkdNMTk3Zk5oM1liMEVZQnpJcG9HSWpPeVFqSUxpSlBJTGM4OUV2TFNVMVN3WXVwQm9jNjJlZlRfLXhDV2VlUFNRbnhsYlpXWW84YU1qWlMyU2RSWjV1Z0tST2Jxb0hzNjRIa3NLQQ?oc=5",
+   "d": "29 Oct",
    "sc": 2
   },
   {
@@ -279,47 +303,23 @@
    "c": "Human Rights / Governance",
    "s": "BBC World",
    "u": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-   "d": "28 Oct",
+   "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "Israel's election result is messy",
-   "c": "Human Rights / Governance",
+   "t": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+   "c": "International Affairs",
    "s": "BBC World",
-   "u": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-   "d": "28 Oct",
+   "u": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+   "d": "29 Oct",
    "sc": 2
   },
   {
-   "t": "ফেসবুক লাইভে ক্ষোভ প্রকাশ, জামিনে মুক্ত সেই নারী",
-   "c": "Bangladesh Affairs",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vU3Qzc2JfVFRNQnlZblZPVlVzQTNib0JHelZwbTkxVU5rNTBrbWRITTJ3VHh4V1BacFJLRHNpNGk4OUF3LXJTS3ZrTFVmcTBja2c5cXo3Y29OZDZ0d2ZJcy1PUTXSAXJBVV95cUxOV3laTHhuWEZLeDZMRU9xUjZtQ0lHRXhOQVFCZFgwY3FHU3hJWDNpWkNKVEVSUzhCY0Y3TWZ4bUt4Q3BmY0ZINFhVV0c1UGZxdzk4dEtJNFBDTVpPbXhZUGwxZGlINmFVTjJzRDhYQ1dJX0E?oc=5",
-   "d": "28 Oct",
-   "sc": 2
-  },
-  {
-   "t": "নির্বাচনী প্রচারণায় গুলি ও জোড়া খুন, ‘সন্ত্রাসী’ ডেভিড ইমনের ৭ দিনের রিমান্ড",
-   "c": "Human Rights / Governance",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ja2xURl8taVNJcHFua2RXdU9vZnU5U3dqOTRtdFJiZXlWU25hXzZVTms3UmdKaC1HRmlVYndFV21oakZ0VEFVMHpRLUFuUTY4X2FKbWZOdWR4UmlpMC11ZE1hVmpxWnZU0gF2QVVfeXFMUDEtQklTT2FkYVptOS12N1Y4TXFKT19MSlRLVmFDYWI1TDZmV1VZQk9Udl9FRU1QNkVXc0FzN3Q1NG1mT0NMV0J3YXY2TFBEMWtObzdGV2NGTVBuVVhuZVVGSklOcF9hOEozaEpBM050MVdDSkM0Zw?oc=5",
-   "d": "28 Oct",
-   "sc": 2
-  },
-  {
-   "t": "সচিবালয় নির্মাণের প্রতিবাদ, পুরোনো বাণিজ্য মেলার মাঠে স্থাপনা ভাঙচুর",
-   "c": "Economy",
-   "s": "প্রথম আলো",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwZVZ5cV9QbW5vcDc1akdxdzBjYkh0SGFwVHJ2cldQVDM5aUZQdHRFdHFlLTBSOW8xbkVlazZzWUJGRFJ4YXNKUW9ORVJUNmJhZEJUb0FWTWpmeG0zYUt2dEp4eVLSAXJBVV95cUxOU2ROLWZQUkNQUTRpVUV4OEJsOWFaQjUyZzdiQzJfeTJsQW95enJFdFVGQlhkeklBT0NsdkhmZG9Hck9Od0ZLZ0ZYakl5el9IM1hfb09JQTAwOGdmUDJ4OUJqRmp3d1Q2UHRhQ203SEtETWc?oc=5",
-   "d": "28 Oct",
-   "sc": 2
-  },
-  {
-   "t": "Classes resume at CUET after 36-day standoff, when will the crisis end?",
-   "c": "Bangladesh Affairs",
-   "s": "TBS News",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQi0tZjE2dmFoN25zOTJaekxQbGE5Rkw5blN4WVQzRW9FTGJUUXRrU0tRYW9MU05wM3Mwc2FTVHdYNmRLUGUxZTdhQzZOQzJNYmJLUU9ZYk9TVDZpUXh5N1FoLVpZb1FCODFUekdOUFRrdWJhVjh1RndTVkx2ckxYR0l2OGFQeWJsNlktU0xVTEZHazc3UXFrY25UN1dJVGFDa011NmhTTHEtak9IblU3dA?oc=5",
-   "d": "28 Oct",
+   "t": "Warrican five-for bowls Bangladesh out for 272",
+   "c": "International Affairs",
+   "s": "Dhaka Tribune",
+   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkhJSVo2d1VpOEVaWDQtWGFHRHV2WXduMFJ2NmNvbWdTZlRmWl92Z1Y3QXZhS2pyTGNyS3AxcFY2bng3SlFZWkF5SURVaTJFQnZhcTRpcUhVd1MtTjlfcV9VeGdUWWlxeFZVbVJMSENnQ1ZjZHdWa2YtSWRZa0p3RURXamUtM01tdmxQeXEyRWxDZDhVNmNkZ3ZwUDbSAaIBQVVfeXFMTjFJdlk5R2dWbjU4ellOWTNEUm9sWGRfd0tMa2RKaXl6ODRjZHJIdVB4SkphMEZvQTQ4d1BzTlo3VnZnaUg5ZWNqRTVSNGhhdVczX29PMm9vNFdXNGlLU0F5ZW81S2QtQ0JKSXBfdUpldThWbDZJOXJlZVVXWDlOYWJZcVZocjFHV0lWWWdqYWpHcGtTWkNLZm1XZXI1ZWFhVmFn?oc=5",
+   "d": "29 Oct",
    "sc": 2
   }
  ]
